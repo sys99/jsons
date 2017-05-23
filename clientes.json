@@ -1,0 +1,104 @@
+{
+    "clientes": [{
+            "id": "C01",
+            "nombre": "Cliente 01",
+            "representante": "Juan Pérez",
+            "solicitantes": [{
+                    "id": "SOL01",
+                    "nombre": "Liliana Masis"
+                },
+                {
+                    "id": "SOL02",
+                    "nombre": "Juan Ramón Fermán"
+                },
+                {
+                    "id": "SOL03",
+                    "nombre": "José Luis Castellanos"
+                }
+            ],
+            "productos": [{
+                    "id": "PROD01",
+                    "nombre": "Oracle Database 12c"
+                },
+                {
+                    "id": "PROD02",
+                    "nombre": "Linux Redhat Entreprise"
+                },
+                {
+                    "id": "PROD03",
+                    "nombre": "Microsoft Azure"
+                },
+                {
+                    "id": "PROD04",
+                    "nombre": "Openkm"
+                }
+            ]
+        },
+        {
+            "id": "C02",
+            "nombre": "Cliente 02",
+            "representante": "José Pedro",
+            "solicitantes": [{
+                    "id": "SOL01",
+                    "nombre": "Luis Flores"
+                },
+                {
+                    "id": "SOL02",
+                    "nombre": "Edson Artiga"
+                }
+            ],
+            "productos": [{
+                    "id": "PROD01",
+                    "nombre": "JBoss BPM"
+                },
+                {
+                    "id": "PROD02",
+                    "nombre": "Oracle Linux"
+                },
+                {
+                    "id": "PROD03",
+                    "nombre": "Liferay"
+                },
+                {
+                    "id": "PROD04",
+                    "nombre": "Amazon Web Services"
+                }
+            ]
+        },
+        {
+            "id": "C03",
+            "nombre": "Cliente 03",
+            "representante": "José Luis",
+            "solicitantes": [{
+                    "id": "SOL01",
+                    "nombre": "Samuel Peña"
+                },
+                {
+                    "id": "SOL02",
+                    "nombre": "Ricardo Jaimes"
+                },
+                {
+                    "id": "SOL03",
+                    "nombre": "Daniel Rodríguez"
+                }
+            ],
+            "productos": [{
+                    "id": "PROD01",
+                    "nombre": "Liferay"
+                },
+                {
+                    "id": "PROD02",
+                    "nombre": "Microsoft Azure"
+                },
+                {
+                    "id": "PROD03",
+                    "nombre": "Oracle BI"
+                },
+                {
+                    "id": "PROD04",
+                    "nombre": "Openkm"
+                }
+            ]
+        }
+    ]
+}
