@@ -80,7 +80,7 @@
                 "id": "PROD03",
                 "nombre": "Liferay"
             }],
-            "severidad": 1,
+            "severidad": 2,
             "actualizaciones": [{
                     "id": "B01",
                     "fecha": "12-05-2017",
@@ -136,7 +136,7 @@
                 "id": "PROD02",
                 "nombre": "Linux Redhat Enterprise"
             }],
-            "severidad": 1,
+            "severidad": 3,
             "actualizaciones": [{
                     "id": "C01",
                     "fecha": "12-05-2017",
@@ -192,7 +192,7 @@
                 "id": "PROD02",
                 "nombre": "Linux Redhat Enterprise"
             }],
-            "severidad": 1,
+            "severidad": 4,
             "actualizaciones": [{
                     "id": "D01",
                     "fecha": "12-05-2017",
