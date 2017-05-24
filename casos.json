@@ -1,7 +1,7 @@
 {
     "casos": [{
             "id": "01",
-            "nombre": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.",
+            "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.",
             "proyecto": "",
             "contrato": [{
                 "id": "CO01",
@@ -57,7 +57,7 @@
         },
         {
             "id": "02",
-            "nombre": "Caso 2",
+            "nombre": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.",
             "proyecto": "",
             "contrato": [{
                 "id": "CO01",
@@ -113,7 +113,7 @@
         },
         {
             "id": "03",
-            "nombre": "Caso 3",
+            "nombre": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.",
             "proyecto": "",
             "contrato": [{
                 "id": "CO01",
@@ -169,7 +169,7 @@
         },
         {
             "id": "04",
-            "nombre": "Caso 4",
+            "nombre": "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.",
             "proyecto": "",
             "contrato": [{
                 "id": "CO01",
