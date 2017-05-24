@@ -1,7 +1,7 @@
 {
     "casos": [{
             "id": "01",
-            "nombre": "Caso 1",
+            "nombre": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.",
             "proyecto": "",
             "contrato": [{
                 "id": "CO01",
