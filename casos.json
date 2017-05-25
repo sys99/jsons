@@ -3,27 +3,27 @@
             "id": "01",
             "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.",
             "proyecto": "",
-            "contrato": [{
+            "contrato": {
                 "id": "CO01",
                 "nombre": "Contrato de soporte platinum"
-            }],
-            "cliente": [{
+            },
+            "cliente": {
                 "id": "C01",
                 "nombre": "Ministerio de Hacienda",
-                "solicitantes": [{
+                "solicitante": {
                     "id": "SOL01",
                     "nombre": "Liliana Masis"
-                }]
-            }],
+                }
+            },
             "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
-            "ingeniero": [{
+            "ingeniero": {
                 "id": "MI6382",
                 "nombre": "Edson Artiga"
-            }],
-            "producto": [{
+            },
+            "producto": {
                 "id": "PROD02",
                 "nombre": "Linux Redhat Enterprise"
-            }],
+            },
             "severidad": 1,
             "actualizaciones": [{
                     "id": "A01",
@@ -59,27 +59,27 @@
             "id": "02",
             "nombre": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.",
             "proyecto": "",
-            "contrato": [{
+            "contrato": {
                 "id": "CO01",
                 "nombre": "Contrato de soporte platinum"
-            }],
-            "cliente": [{
+            },
+            "cliente": {
                 "id": "C01",
                 "nombre": "Ministerio de Hacienda",
-                "solicitantes": [{
+                "solicitante": {
                     "id": "SOL01",
                     "nombre": "Liliana Masis"
-                }]
-            }],
+                }
+            },
             "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
-            "ingeniero": [{
+            "ingeniero": {
                 "id": "MI6382",
                 "nombre": "Edson Artiga"
-            }],
-            "producto": [{
+            },
+            "producto": {
                 "id": "PROD03",
                 "nombre": "Liferay"
-            }],
+            },
             "severidad": 2,
             "actualizaciones": [{
                     "id": "B01",
@@ -115,27 +115,27 @@
             "id": "03",
             "nombre": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.",
             "proyecto": "",
-            "contrato": [{
+            "contrato": {
                 "id": "CO01",
                 "nombre": "Contrato de soporte platinum"
-            }],
-            "cliente": [{
+            },
+            "cliente": {
                 "id": "C01",
                 "nombre": "Ministerio de Hacienda",
-                "solicitantes": [{
+                "solicitantes": {
                     "id": "SOL01",
                     "nombre": "Liliana Masis"
-                }]
-            }],
+                }
+            },
             "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
-            "ingeniero": [{
+            "ingeniero": {
                 "id": "MI6382",
                 "nombre": "Edson Artiga"
-            }],
-            "producto": [{
+            },
+            "producto": {
                 "id": "PROD02",
                 "nombre": "Linux Redhat Enterprise"
-            }],
+            },
             "severidad": 3,
             "actualizaciones": [{
                     "id": "C01",
@@ -171,27 +171,27 @@
             "id": "04",
             "nombre": "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.",
             "proyecto": "",
-            "contrato": [{
+            "contrato": {
                 "id": "CO01",
                 "nombre": "Contrato de soporte platinum"
-            }],
-            "cliente": [{
+            },
+            "cliente": {
                 "id": "C01",
                 "nombre": "Ministerio de Hacienda",
-                "solicitantes": [{
+                "solicitante": {
                     "id": "SOL01",
                     "nombre": "Luis Flores"
-                }]
-            }],
+                }
+            },
             "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
-            "ingeniero": [{
+            "ingeniero": {
                 "id": "MI6382",
                 "nombre": "Edson Artiga"
-            }],
-            "producto": [{
+            },
+            "producto": {
                 "id": "PROD02",
                 "nombre": "Linux Redhat Enterprise"
-            }],
+            },
             "severidad": 4,
             "actualizaciones": [{
                     "id": "D01",
