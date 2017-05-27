@@ -1,0 +1,24 @@
+{
+  "marcas": [
+    {
+      "id": "BRAND01",
+      "nombre": "Marca 1"
+    },
+    {
+      "id": "BRAND02",
+      "nombre": "Marca 2"
+    },
+    {
+      "id": "BRAND03",
+      "nombre": "Marca 3"
+    },
+    {
+      "id": "BRAND04",
+      "nombre": "Marca 4"
+    },
+    {
+      "id": "BRAND05",
+      "nombre": "Marca 5"
+    }
+  ]
+}
