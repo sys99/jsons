@@ -1,0 +1,46 @@
+{
+  "id": "CL01",
+  "nombre": "Cliente 01",
+  "solicitantes": [
+    {
+      "id": "SOLA",
+      "nombre": "Solicitante A"
+    },
+    {
+      "id": "SOLB",
+      "nombre": "Solicitante B"
+    },
+    {
+      "id": "SOLC",
+      "nombre": "Solicitante C"
+    }
+  ],
+  "tipoCaso": [
+    {
+      "id": "TC01",
+      "nombre": "Configuración"
+    },
+    {
+      "id": "TC02",
+      "nombre": "Programación"
+    },
+    {
+      "id": "TC03",
+      "nombre": "Instalación"
+    }
+  ],
+  "productos": [
+    {
+      "id": "PRODA",
+      "nombre": "Producto A"
+    },
+    {
+      "id": "PRODD",
+      "nombre": "Producto D"
+    },
+    {
+      "id": "PRODF",
+      "nombre": "Producto F"
+    }
+  ]
+}
