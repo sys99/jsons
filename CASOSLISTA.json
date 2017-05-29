@@ -5,70 +5,150 @@
       "nombre": "Caso número 1",
       "fecha": "12/05/2017 10:10 AM",
       "estado": "pendiente",
-      "severidadId": "S04",
-      "severidad": "Severidad 04",
-      "clienteId": "CLA",
-      "cliente": "Cliente A",
-      "solicitanteId": "CLASB",
-      "solicitante": "Solicitante B",
-      "productoId": "PRODD",
-      "producto": "Producto D"
+      "severidad": [
+        {
+          "id": "S04",
+          "nombre": "Severidad 04"
+        }
+      ],
+      "cliente": [
+        {
+          "id": "CLE",
+          "nombre": "Cliente E"
+        }
+      ],
+      "solicitante": [
+        {
+          "id": "CLESB",
+          "nombre": "Solicitante B"
+        }
+      ],
+      "producto": [
+        {
+          "id": "PRODN",
+          "nombre": "Producto N"
+        }
+      ]
     },
     {
       "id": "CASO03",
       "nombre": "Caso número 3",
       "fecha": "11/05/2017 09:30 AM",
       "estado": "trabajando",
-      "severidadId": "S01",
-      "severidad": "Severidad 01",
-      "clienteId": "CLC",
-      "cliente": "Cliente C",
-      "solicitanteId": "CLCSA",
-      "solicitante": "Solicitante A",
-      "productoId": "PRODM",
-      "producto": "Producto M"
+      "severidad": [
+        {
+          "id": "S01",
+          "nombre": "Severidad 01"
+        }
+      ],
+      "cliente": [
+        {
+          "id": "CLA",
+          "nombre": "Cliente A"
+        }
+      ],
+      "solicitante": [
+        {
+          "id": "CLASA",
+          "nombre": "Solicitante A"
+        }
+      ],
+      "producto": [
+        {
+          "id": "PRODF",
+          "nombre": "Producto F"
+        }
+      ]
     },
     {
       "id": "CASO06",
       "nombre": "Caso número 6",
       "fecha": "15/05/2017 01:30 PM",
       "estado": "pendiente",
-      "severidadId": "S03",
-      "severidad": "Severidad 03",
-      "clienteId": "CLD",
-      "cliente": "Cliente D",
-      "solicitanteId": "CLDSC",
-      "solicitante": "Solicitante C",
-      "productoId": "PRODI",
-      "producto": "Producto I"
+      "severidad": [
+        {
+          "id": "S03",
+          "nombre": "Severidad 03"
+        }
+      ],
+      "cliente": [
+        {
+          "id": "CLD",
+          "nombre": "Cliente D"
+        }
+      ],
+      "solicitante": [
+        {
+          "id": "CLDSC",
+          "nombre": "Solicitante C"
+        }
+      ],
+      "producto": [
+        {
+          "id": "PRODI",
+          "nombre": "Producto I"
+        }
+      ]
     },
     {
       "id": "CASO10",
       "nombre": "Caso número 10",
       "fecha": "18/05/2017 04:23 PM",
       "estado": "trabajando",
-      "severidadId": "S02",
-      "severidad": "Severidad 02",
-      "clienteId": "CLB",
-      "cliente": "Cliente B",
-      "solicitanteId": "CLBSB",
-      "solicitante": "Solicitante B",
-      "productoId": "PRODJ",
-      "producto": "Producto J"
+      "severidad": [
+        {
+          "id": "S01",
+          "nombre": "Severidad 01"
+        }
+      ],
+      "cliente": [
+        {
+          "id": "CLC",
+          "nombre": "Cliente C"
+        }
+      ],
+      "solicitante": [
+        {
+          "id": "CLCSA",
+          "nombre": "Solicitante A"
+        }
+      ],
+      "producto": [
+        {
+          "id": "PRODM",
+          "nombre": "Producto M"
+        }
+      ]
     },
     {
       "id": "CASO12",
       "nombre": "Caso número 12",
       "fecha": "20/05/2017 02:45 PM",
       "estado": "trabajando",
-      "severidadId": "S02",
-      "severidad": "Severidad 02",
-      "clienteId": "CLB",
-      "cliente": "Cliente B",
-      "solicitanteId": "CLBSB",
-      "solicitante": "Solicitante B",
-      "productoId": "PRODJ",
-      "producto": "Producto J"
+      "severidad": [
+        {
+          "id": "S02",
+          "nombre": "Severidad 02"
+        }
+      ],
+      "cliente": [
+        {
+          "id": "CLB",
+          "nombre": "Cliente B"
+        }
+      ],
+      "solicitante": [
+        {
+          "id": "CLBSB",
+          "nombre": "Solicitante B"
+        }
+      ],
+      "producto": [
+        {
+          "id": "PRODJ",
+          "nombre": "Producto J"
+        }
+      ]
     }
   ]
 }
