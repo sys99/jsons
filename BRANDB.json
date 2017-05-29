@@ -4,16 +4,16 @@
     "nombre": "Marca B",
     "productos": [
       {
-        "id": "PRODD",
-        "nombre": "Producto D"
+        "id": "PRODB1",
+        "nombre": "Producto B1"
       },
       {
-        "id": "PRODE",
-        "nombre": "Producto E"
+        "id": "PRODB2",
+        "nombre": "Producto B2"
       },
       {
-        "id": "PRODF",
-        "nombre": "Producto F"
+        "id": "PRODB3",
+        "nombre": "Producto B3"
       }
     ]
   }
