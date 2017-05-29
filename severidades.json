@@ -2,19 +2,19 @@
   "severidad": [
     {
       "id": "S01",
-      "nombre": "Severidad 01"
+      "nombre": "Severidad 1"
     },
     {
       "id": "S02",
-      "nombre": "Severidad 02"
+      "nombre": "Severidad 2"
     },
     {
       "id": "S03",
-      "nombre": "Severidad 03"
+      "nombre": "Severidad 3"
     },
     {
       "id": "S04",
-      "nombre": "Severidad 04"
+      "nombre": "Severidad 4"
     }
   ]
 }
