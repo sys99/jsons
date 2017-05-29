@@ -1,16 +1,20 @@
 {
-  "productos": [
-    {
-      "id": "PRODD",
-      "nombre": "Producto D"
-    },
-    {
-      "id": "PRODE",
-      "nombre": "Producto E"
-    },
-    {
-      "id": "PRODF",
-      "nombre": "Producto F"
-    }
-  ]
+  "marca": {
+    "id": "BRANDB",
+    "nombre": "Marca B",
+    "productos": [
+      {
+        "id": "PRODD",
+        "nombre": "Producto D"
+      },
+      {
+        "id": "PRODE",
+        "nombre": "Producto E"
+      },
+      {
+        "id": "PRODF",
+        "nombre": "Producto F"
+      }
+    ]
+  }
 }
