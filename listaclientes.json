@@ -1,12 +1,24 @@
 {
   "clientes": [
     {
-      "nombre": "Cliente 1",
-      "id": "cod1"
+      "id": "CLA",
+      "nombre": "Cliente A"
     },
     {
-      "nombre": "Cliente 2",
-      "id": "cod2"
+      "id": "CLB",
+      "nombre": "Cliente B"
+    },
+    {
+      "id": "CLC",
+      "nombre": "Cliente C"
+    },
+    {
+      "id": "CLD",
+      "nombre": "Cliente D"
+    },
+    {
+      "id": "CLE",
+      "nombre": "Cliente E"
     }
   ]
 }
