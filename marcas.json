@@ -1,24 +1,24 @@
 {
   "marcas": [
     {
-      "id": "BRAND01",
-      "nombre": "Marca 1"
+      "id": "BRANDA",
+      "nombre": "Marca A"
     },
     {
-      "id": "BRAND02",
-      "nombre": "Marca 2"
+      "id": "BRANDB",
+      "nombre": "Marca B"
     },
     {
-      "id": "BRAND03",
-      "nombre": "Marca 3"
+      "id": "BRANDC",
+      "nombre": "Marca C"
     },
     {
-      "id": "BRAND04",
-      "nombre": "Marca 4"
+      "id": "BRANDD",
+      "nombre": "Marca D"
     },
     {
-      "id": "BRAND05",
-      "nombre": "Marca 5"
+      "id": "BRANDE",
+      "nombre": "Marca E"
     }
   ]
 }
