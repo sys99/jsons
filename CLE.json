@@ -1,0 +1,46 @@
+{
+  "id": "CLE",
+  "nombre": "Cliente E",
+  "solicitantes": [
+    {
+      "id": "CLESA",
+      "nombre": "Solicitante A"
+    },
+    {
+      "id": "CLESB",
+      "nombre": "Solicitante B"
+    },
+    {
+      "id": "CLESC",
+      "nombre": "Solicitante C"
+    }
+  ],
+  "tipoCaso": [
+    {
+      "id": "ACTPROG",
+      "nombre": "Programación"
+    },
+    {
+      "id": "ACTRESP",
+      "nombre": "Respaldo"
+    },
+    {
+      "id": "ACTPARC",
+      "nombre": "Parchado"
+    }
+  ],
+  "productos": [
+    {
+      "id": "PRODB",
+      "nombre": "Producto B"
+    },
+    {
+      "id": "PRODD",
+      "nombre": "Producto D"
+    },
+    {
+      "id": "PRODN",
+      "nombre": "Producto N"
+    }
+  ]
+}
