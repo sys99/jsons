@@ -1,0 +1,17 @@
+
+{
+  "productos": [
+    {
+      "id": "PRODJ",
+      "nombre": "Producto J"
+    },
+    {
+      "id": "PRODH",
+      "nombre": "Producto K"
+    },
+    {
+      "id": "PRODI",
+      "nombre": "Producto L"
+    }
+  ]
+}
