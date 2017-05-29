@@ -1,13 +1,16 @@
 {
     "id": "CASO01",
-    "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.",
-    "estado": "pendiente",
+    "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
+    "estado": {
+        "id": 1,
+        "nombre": "pendiente"
+    },
     "cliente": {
         "id": "CLE",
         "nombre": "Cliente E"
     },
     "solicitante": {
-        "id": "CLESB",
+        "id": "CLE-SB",
         "nombre": "Solicitante B"
     },
     "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
@@ -24,33 +27,41 @@
         "nombre": "Severidad 04"
     },
     "actualizaciones": [{
-            "id": "A01",
-            "fecha": "12-05-2017",
+            "id": "CASO01-A01",
+            "fecha": "1496088857",
             "autor": "Edson Artiga",
             "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
         },
         {
-            "id": "A02",
-            "fecha": "13-05-2017",
+            "id": "CASO01-A02",
+            "fecha": "1496088857",
             "autor": "Edson Artiga",
             "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
         },
         {
-            "id": "A03",
-            "fecha": "14-05-2017",
+            "id": "CASO01-A03",
+            "fecha": "1496088857",
             "autor": "Edson Artiga",
             "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
         },
         {
-            "id": "A04",
-            "fecha": "15-05-2017",
+            "id": "CASO01-A04",
+            "fecha": "1496088857",
             "autor": "Edson Artiga",
             "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
         }
     ],
+    "adjuntos": [{
+        "id": "CASO03-ADJ01",
+        "fecha": "1496088857",
+        "autor": "Edson Artiga",
+        "tipo": "pdf",
+        "nombre": "test.pdf",
+        "descripcion": "In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
+    }],
     "fechas": {
-        "inicio": "12/05/2017 10:10 AM",
-        "cierre": "13/05/2017 10:10 AM"
+        "inicio": "1496088857",
+        "cierre": "1496090887"
     },
     "horasActivas": 8
 }
