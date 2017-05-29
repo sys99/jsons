@@ -1,16 +1,20 @@
 {
-  "productos": [
-    {
-      "id": "PRODG",
-      "nombre": "Producto G"
-    },
-    {
-      "id": "PRODH",
-      "nombre": "Producto H"
-    },
-    {
-      "id": "PRODI",
-      "nombre": "Producto I"
-    }
-  ]
+  "marca": {
+    "id": "BRANDC",
+    "nombre": "Marca C",
+    "productos": [
+      {
+        "id": "PRODG",
+        "nombre": "Producto G"
+      },
+      {
+        "id": "PRODH",
+        "nombre": "Producto H"
+      },
+      {
+        "id": "PRODI",
+        "nombre": "Producto I"
+      }
+    ]
+  }
 }
