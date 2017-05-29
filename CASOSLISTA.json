@@ -1,0 +1,74 @@
+{
+  "casos": [
+    {
+      "id": "CASO01",
+      "nombre": "Caso número 1",
+      "fecha": "12/05/2017 10:10 AM",
+      "estado": "pendiente",
+      "severidadId": "S04",
+      "severidad": "Severidad 04",
+      "clienteId": "CLA",
+      "cliente": "Cliente A",
+      "solicitanteId": "CLASB",
+      "solicitante": "Solicitante B",
+      "productoId": "PRODD",
+      "producto": "Producto D"
+    },
+    {
+      "id": "CASO03",
+      "nombre": "Caso número 3",
+      "fecha": "11/05/2017 09:30 AM",
+      "estado": "trabajando",
+      "severidadId": "S01",
+      "severidad": "Severidad 01",
+      "clienteId": "CLC",
+      "cliente": "Cliente C",
+      "solicitanteId": "CLCSA",
+      "solicitante": "Solicitante A",
+      "productoId": "PRODM",
+      "producto": "Producto M"
+    },
+    {
+      "id": "CASO06",
+      "nombre": "Caso número 6",
+      "fecha": "15/05/2017 01:30 PM",
+      "estado": "pendiente",
+      "severidadId": "S03",
+      "severidad": "Severidad 03",
+      "clienteId": "CLD",
+      "cliente": "Cliente D",
+      "solicitanteId": "CLDSC",
+      "solicitante": "Solicitante C",
+      "productoId": "PRODI",
+      "producto": "Producto I"
+    },
+    {
+      "id": "CASO10",
+      "nombre": "Caso número 10",
+      "fecha": "18/05/2017 04:23 PM",
+      "estado": "trabajando",
+      "severidadId": "S02",
+      "severidad": "Severidad 02",
+      "clienteId": "CLB",
+      "cliente": "Cliente B",
+      "solicitanteId": "CLBSB",
+      "solicitante": "Solicitante B",
+      "productoId": "PRODJ",
+      "producto": "Producto J"
+    },
+    {
+      "id": "CASO12",
+      "nombre": "Caso número 12",
+      "fecha": "20/05/2017 02:45 PM",
+      "estado": "trabajando",
+      "severidadId": "S02",
+      "severidad": "Severidad 02",
+      "clienteId": "CLB",
+      "cliente": "Cliente B",
+      "solicitanteId": "CLBSB",
+      "solicitante": "Solicitante B",
+      "productoId": "PRODJ",
+      "producto": "Producto J"
+    }
+  ]
+}
