@@ -1,0 +1,67 @@
+{
+    "id": "CASO10",
+    "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, consectetuer adipiscing elit",
+    "estado": {
+        "id": 2,
+        "nombre": "trabajando"
+    },
+    "cliente": {
+        "id": "CLC",
+        "nombre": "Cliente C"
+    },
+    "solicitante": {
+        "id": "CLC-SA",
+        "nombre": "Solicitante A"
+    },
+    "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
+    "ingeniero": {
+        "id": "INGC",
+        "nombre": "Cristhian Martínez"
+    },
+    "producto": {
+        "id": "PRODM",
+        "nombre": "Producto M"
+    },
+    "severidad": {
+        "id": "S01",
+        "nombre": "Severidad 01"
+    },
+    "actualizaciones": [{
+            "id": "CASO10-A01",
+            "fecha": "1496088857",
+            "autor": "Cristhian Martínez",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
+        },
+        {
+            "id": "CASO10-A02",
+            "fecha": "1496088857",
+            "autor": "Cristhian Martínez",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
+        },
+        {
+            "id": "CASO10-A03",
+            "fecha": "1496088857",
+            "autor": "Cristhian Martínez",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
+        },
+        {
+            "id": "CASO10-A04",
+            "fecha": "1496088857",
+            "autor": "Cristhian Martínez",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
+        }
+    ],
+    "adjuntos": [{
+        "id": "CASO10-ADJ01",
+        "fecha": "1496088857",
+        "autor": "Cristhian Martínez",
+        "tipo": "doc",
+        "nombre": "test.doc",
+        "descripcion": "In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
+    }],
+    "fechas": {
+        "inicio": "1496088857",
+        "cierre": "1496090887"
+    },
+    "horasActivas": 8
+}
