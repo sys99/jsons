@@ -1,0 +1,46 @@
+{
+  "id": "CLD",
+  "nombre": "Cliente D",
+  "solicitantes": [
+    {
+      "id": "CLDSA",
+      "nombre": "Solicitante A"
+    },
+    {
+      "id": "CLDSB",
+      "nombre": "Solicitante B"
+    },
+    {
+      "id": "CLDSC",
+      "nombre": "Solicitante C"
+    }
+  ],
+  "tipoCaso": [
+    {
+      "id": "ACTCONF",
+      "nombre": "Configuración"
+    },
+    {
+      "id": "ACTPROG",
+      "nombre": "Programación"
+    },
+    {
+      "id": "ACTINST",
+      "nombre": "Instalación"
+    }
+  ],
+  "productos": [
+    {
+      "id": "PRODE",
+      "nombre": "Producto E"
+    },
+    {
+      "id": "PRODG",
+      "nombre": "Producto G"
+    },
+    {
+      "id": "PRODI",
+      "nombre": "Producto I"
+    }
+  ]
+}
