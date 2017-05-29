@@ -11,14 +11,6 @@
     {
       "id": "CLC",
       "nombre": "Cliente C"
-    },
-    {
-      "id": "CLD",
-      "nombre": "Cliente D"
-    },
-    {
-      "id": "CLE",
-      "nombre": "Cliente E"
     }
   ]
 }
