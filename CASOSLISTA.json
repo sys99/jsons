@@ -3,7 +3,7 @@
     {
       "id": "CASO01",
       "nombre": "Caso número 1",
-      "fecha": "12/05/2017 10:10 AM",
+      "fecha": "1496088857",
       "estado": "pendiente",
       "severidad": [
         {
@@ -33,7 +33,7 @@
     {
       "id": "CASO03",
       "nombre": "Caso número 3",
-      "fecha": "11/05/2017 09:30 AM",
+      "fecha": "1496088857",
       "estado": "trabajando",
       "severidad": [
         {
@@ -63,7 +63,7 @@
     {
       "id": "CASO06",
       "nombre": "Caso número 6",
-      "fecha": "15/05/2017 01:30 PM",
+      "fecha": "1496088857",
       "estado": "pendiente",
       "severidad": [
         {
@@ -93,7 +93,7 @@
     {
       "id": "CASO10",
       "nombre": "Caso número 10",
-      "fecha": "18/05/2017 04:23 PM",
+      "fecha": "1496088857",
       "estado": "trabajando",
       "severidad": [
         {
@@ -123,7 +123,7 @@
     {
       "id": "CASO12",
       "nombre": "Caso número 12",
-      "fecha": "20/05/2017 02:45 PM",
+      "fecha": "1496088857",
       "estado": "trabajando",
       "severidad": [
         {
