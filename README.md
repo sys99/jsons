@@ -66,7 +66,8 @@ solicitantes[2]
   nombre = Solicitante C
 ```
 ## Lista de casos resumida
-```casos[0]
+```
+casos[0]
   id = CASO01
   nombre = Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.
   fecha
