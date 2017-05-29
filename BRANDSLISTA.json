@@ -11,14 +11,6 @@
     {
       "id": "BRANDC",
       "nombre": "Marca C"
-    },
-    {
-      "id": "BRANDD",
-      "nombre": "Marca D"
-    },
-    {
-      "id": "BRANDE",
-      "nombre": "Marca E"
     }
   ]
 }
