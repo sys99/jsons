@@ -168,6 +168,55 @@ casos[4]
     id = PRODB1
     nombre = Producto B1
 ```
+## Caso
+
+```
+id = CASO01
+nombre = Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.
+fecha
+  inicio = 1496088857
+  cierre = 1496090887
+estado
+  id = 1
+  nombre = pendiente
+cliente
+  id = CLB
+  nombre = Cliente B
+solicitante
+  id = CLB-SB
+  nombre = Solicitante B
+contrato
+  id = CLB-CONT01
+  nombre = Contrato 1
+tipoCaso
+  id = ACT-A2  
+  nombre = Actividad A2
+ingeniero
+  id = INGA 
+  nombre = Edson Artiga
+producto
+  id = PRODA2
+  nombre = Producto A2
+severidad
+  id = S04
+  nombre = Severidad 4
+descripcion = Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+actualizaciones[0]
+  id = CASO01-UP01
+  fecha = 1496088857
+  autor = Edson Artiga
+  descripcion = Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+archivos[0]
+  id = CASO01-ADJ01
+  fecha = 1496088857
+  autor = Edson Artiga
+  tipo = pdf
+  nombre = reporte.pdf
+  descripcion = Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+horas = 8
+```
+
+
 ## Tipos de contrato
 
 ```
