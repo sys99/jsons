@@ -17,15 +17,15 @@
   ],
   "tipoCaso": [
     {
-      "id": "TC01",
+      "id": "ACTCONF",
       "nombre": "Configuración"
     },
     {
-      "id": "TC02",
+      "id": "ACTPROG",
       "nombre": "Programación"
     },
     {
-      "id": "TC03",
+      "id": "ACTINST",
       "nombre": "Instalación"
     }
   ],
