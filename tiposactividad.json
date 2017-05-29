@@ -1,24 +1,24 @@
 {
   "actividades": [
     {
-      "id": "ACTA",
-      "nombre": "Actividad A"
+      "id": "ACTCONF",
+      "nombre": "Configuración"
     },
     {
-      "id": "ACTB",
-      "nombre": "Actividad B"
+      "id": "ACTPROG",
+      "nombre": "Programación"
     },
     {
-      "id": "ACTC",
-      "nombre": "Actividad C"
+      "id": "ACTINST",
+      "nombre": "Instalación"
     },
     {
-      "id": "ACTD",
-      "nombre": "Actividad D"
+      "id": "ACTRESP",
+      "nombre": "Respaldo"
     },
     {
-      "id": "ACTE",
-      "nombre": "Actividad E"
+      "id": "ACTPARC",
+      "nombre": "Parchado"
     }
   ]
 }
