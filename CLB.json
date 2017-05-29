@@ -1,6 +1,80 @@
 {
   "id": "CLB",
   "nombre": "Cliente B",
+  "contratos": [
+    {
+      "id": "CLB-CONT01",
+      "nombre": "Contrato 1",
+      "tipo": {
+        "id": "CONT-TIPA",
+        "nombre": "Tipo A"
+      },
+      "actividades": [
+        {
+          "id": "ACT-A1",
+          "nombre": "Actividad A1"
+        },
+        {
+          "id": "ACT-A2",
+          "nombre": "Actividad A2"
+        },
+        {
+          "id": "ACT-A3",
+          "nombre": "Actividad A3"
+        }
+      ],
+      "productos": [
+        {
+          "id": "PRODA1",
+          "nombre": "Producto A1"
+        },
+        {
+          "id": "PRODA2",
+          "nombre": "Producto A2"
+        },
+        {
+          "id": "PRODA3",
+          "nombre": "Producto A3"
+        }
+      ]
+    },
+    {
+      "id": "CLB-CONT02",
+      "nombre": "Contrato 2",
+      "tipo": {
+        "id": "CONT-TIPC",
+        "nombre": "Tipo C"
+      },
+      "actividades": [
+        {
+          "id": "ACT-C1",
+          "nombre": "Actividad C1"
+        },
+        {
+          "id": "ACT-C2",
+          "nombre": "Actividad C2"
+        },
+        {
+          "id": "ACT-C3",
+          "nombre": "Actividad C3"
+        }
+      ],
+      "productos": [
+        {
+          "id": "PRODC1",
+          "nombre": "Producto C1"
+        },
+        {
+          "id": "PRODC2",
+          "nombre": "Producto C2"
+        },
+        {
+          "id": "PRODC3",
+          "nombre": "Producto C3"
+        }
+      ]
+    }
+  ],
   "solicitantes": [
     {
       "id": "CLB-SA",
@@ -13,34 +87,6 @@
     {
       "id": "CLB-SC",
       "nombre": "Solicitante C"
-    }
-  ],
-  "tipoCaso": [
-    {
-      "id": "ACTCONF",
-      "nombre": "Configuración"
-    },
-    {
-      "id": "ACTPROG",
-      "nombre": "Programación"
-    },
-    {
-      "id": "ACTPARC",
-      "nombre": "Parchado"
-    }
-  ],
-  "productos": [
-    {
-      "id": "PRODC",
-      "nombre": "Producto C"
-    },
-    {
-      "id": "PRODJ",
-      "nombre": "Producto J"
-    },
-    {
-      "id": "PRODO",
-      "nombre": "Producto O"
     }
   ]
 }
