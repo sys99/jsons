@@ -1,0 +1,24 @@
+{
+  "actividades": [
+    {
+      "id": "ACTA",
+      "nombre": "Actividad A"
+    },
+    {
+      "id": "ACTB",
+      "nombre": "Actividad B"
+    },
+    {
+      "id": "ACTC",
+      "nombre": "Actividad C"
+    },
+    {
+      "id": "ACTD",
+      "nombre": "Actividad D"
+    },
+    {
+      "id": "ACTE",
+      "nombre": "Actividad E"
+    }
+  ]
+}
