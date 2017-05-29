@@ -3,15 +3,15 @@
   "nombre": "Cliente B",
   "solicitantes": [
     {
-      "id": "CLBSA",
+      "id": "CLB-SA",
       "nombre": "Solicitante A"
     },
     {
-      "id": "CLBSB",
+      "id": "CLB-SB",
       "nombre": "Solicitante B"
     },
     {
-      "id": "CLBSC",
+      "id": "CLB-SC",
       "nombre": "Solicitante C"
     }
   ],
