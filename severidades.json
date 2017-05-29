@@ -1,0 +1,20 @@
+{
+  "severidad": [
+    {
+      "id": "S01",
+      "nombre": "Severidad 01"
+    },
+    {
+      "id": "S02",
+      "nombre": "Severidad 02"
+    },
+    {
+      "id": "S03",
+      "nombre": "Severidad 03"
+    },
+    {
+      "id": "S04",
+      "nombre": "Severidad 04"
+    }
+  ]
+}
