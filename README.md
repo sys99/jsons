@@ -65,7 +65,108 @@ solicitantes[2]
   id = CLC-SC
   nombre = Solicitante C
 ```
-
+## Lista de casos resumida
+```casos[0]
+  id = CASO01
+  nombre = Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.
+  fecha
+    inicio = 1496088857
+  estado
+    id = 1
+    nombre = pendiente
+  severidad
+    id = S04
+    nombre = Severidad 4
+  cliente
+    id = CLB
+    nombre = Cliente B
+  solicitante
+    id = CLB-SB
+    nombre = Solicitante B
+  Producto
+    id = PRODA2
+    nombre = Producto A2
+casos[1]
+  id = CASO03
+  nombre = Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.
+  fecha
+    inicio = 1496088857
+  estado
+    id = 2
+    nombre = trabajando
+  severidad
+    id = S01
+    nombre = Severidad 1
+  cliente
+    id = CLC
+    nombre = Cliente C
+  solicitante
+    id = CLC-SA
+    nombre = Solicitante A
+  Producto
+    id = PRODC3
+    nombre = Producto C3
+casos[2]
+  id = CASO06
+  nombre = Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.
+  fecha
+    inicio = 1496088857
+  estado
+    id = 1
+    nombre = pendiente
+  severidad
+    id = S02
+    nombre = Severidad 2
+  cliente
+    id = CLA
+    nombre = Cliente A
+  solicitante
+    id = CLA-SC
+    nombre = Solicitante C
+  Producto
+    id = PRODB3
+    nombre = Producto B3
+casos[3]
+  id = CASO10
+  nombre = Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.
+  fecha
+    inicio = 1496088857
+  estado
+    id = 2
+    nombre = trabajando
+  severidad
+    id = S03
+    nombre = Severidad 3
+  cliente
+    id = CLB
+    nombre = Cliente B
+  solicitante
+    id = CLB-SB
+    nombre = Solicitante B
+  Producto
+    id = PRODA1
+    nombre = Producto A1
+casos[4]
+  id = CASO12
+  nombre = Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.
+  fecha
+    inicio = 1496088857
+  estado
+    id = 1
+    nombre = pendiente
+  severidad
+    id = S01
+    nombre = Severidad 1
+  cliente
+    id = CLC
+    nombre = Cliente C
+  solicitante
+    id = CLC-SC
+    nombre = Solicitante C
+  Producto
+    id = PRODB1
+    nombre = Producto B1
+```
 ## Tipos de contrato
 
 ```
