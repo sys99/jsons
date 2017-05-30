@@ -84,6 +84,9 @@ casos[0]
   solicitante
     id = CLB-SB
     nombre = Solicitante B
+  ingeniero
+    id = INGA
+    nombre = Edson Artiga
   Producto
     id = PRODA2
     nombre = Producto A2
@@ -104,6 +107,9 @@ casos[1]
   solicitante
     id = CLC-SA
     nombre = Solicitante A
+  ingeniero
+    id = INGB
+    nombre = Ricardo Jaimes
   Producto
     id = PRODC3
     nombre = Producto C3
@@ -124,6 +130,9 @@ casos[2]
   solicitante
     id = CLA-SC
     nombre = Solicitante C
+  ingeniero
+    id = INGA
+    nombre = Edson Artiga
   Producto
     id = PRODB3
     nombre = Producto B3
@@ -144,6 +153,9 @@ casos[3]
   solicitante
     id = CLB-SB
     nombre = Solicitante B
+  ingeniero
+    id = INGB
+    nombre = Ricardo Jaimes
   Producto
     id = PRODA1
     nombre = Producto A1
@@ -164,6 +176,9 @@ casos[4]
   solicitante
     id = CLC-SC
     nombre = Solicitante C
+  ingeniero
+    id = INGA
+    nombre = Edson Artiga
   Producto
     id = PRODB1
     nombre = Producto B1
