@@ -1,67 +1,60 @@
 {
-    "id": "CASO12",
-    "nombre": "Pellentesque fermentum dolor",
-    "estado": {
-        "id": 2,
-        "nombre": "trabajando"
-    },
-    "cliente": {
-        "id": "CLB",
-        "nombre": "Cliente B"
-    },
-    "solicitante": {
-        "id": "CLB-SB",
-        "nombre": "Solicitante B"
-    },
-    "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
-    "ingeniero": {
-        "id": "INGD",
-        "nombre": "Mikel Escobar"
-    },
-    "producto": {
-        "id": "PRODJ",
-        "nombre": "Producto J"
-    },
-    "severidad": {
-        "id": "S02",
-        "nombre": "Severidad 02"
-    },
-    "actualizaciones": [{
-            "id": "CASO12-A01",
-            "fecha": "1496088857",
-            "autor": "Mikel Escobar",
-            "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
-        },
-        {
-            "id": "CASO12-A02",
-            "fecha": "1496088857",
-            "autor": "Mikel Escobar",
-            "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
-        },
-        {
-            "id": "CASO12-A03",
-            "fecha": "1496088857",
-            "autor": "Mikel Escobar",
-            "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
-        },
-        {
-            "id": "CASO12-A04",
-            "fecha": "1496088857",
-            "autor": "Mikel Escobar",
-            "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
-        }
-    ],
-    "adjuntos": [{
-        "id": "CASO12-ADJ01",
-        "fecha": "1496088857",
-        "autor": "Mikel Escobar",
-        "tipo": "ppt",
-        "nombre": "test.ppt",
-        "descripcion": "In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
-    }],
-    "fechas": {
-        "inicio": "1496088857",
-        "cierre": "1496090887"
-    },
-    "horasActivas": 8
+  "id": "CASO10",
+  "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
+  "fecha": {
+    "inicio": "1496088857",
+    "cierre": "1496090887"
+  },
+  "estado": {
+    "id": "1",
+    "nombre": "pendiente"
+  },
+  "cliente": {
+    "id": "CLC",
+    "nombre": "Cliente C"
+  },
+  "solicitante": {
+    "id": "CLC-SC",
+    "nombre": "Solicitante C"
+  },
+  "contrato": {
+    "id": "CLC-CONT01",
+    "nombre": "Contrato 1"
+  },
+  "tipoCaso": {
+    "id": "ACT-B3",
+    "nombre": "Actividad B3"
+  },
+  "ingeniero": {
+    "id": "INGA",
+    "nombre": "Edson Artiga"
+  },
+  "producto": {
+    "id": "PRODB1",
+    "nombre": "Producto B1"
+  },
+  "severidad": {
+    "id": "S01",
+    "nombre": "Severidad 1"
+  },
+  "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
+  "actualizaciones": [
+    {
+      "id": "CASO12-UP01",
+      "fecha": "1496088857",
+      "autor": "Edson Artiga",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti."
+    }
+  ],
+  "archivos": [
+    {
+      "id": "CASO12-ADJ01",
+      "fecha": "1496088857",
+      "autor": "Edson Artiga",
+      "tipo": "pdf",
+      "nombre": "calendarizacion-respaldos.pdf",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti."
+    }
+  ],
+  "horas": "8"
 }
