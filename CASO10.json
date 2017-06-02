@@ -41,7 +41,11 @@
   "actualizaciones": [
     {
       "id": "CASO10-UP01",
-      "fecha": "1496088857",
+      "fecha": {
+        "inicio": "1496088857",
+        "cierre": "1496090887"
+      },
+      "tiempo": "2",
       "autor": "Ricardo Jaimes",
       "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti."
     }
@@ -55,6 +59,5 @@
       "nombre": "accesos-vms.pdf",
       "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti."
     }
-  ],
-  "horas": "8"
+  ]
 }
