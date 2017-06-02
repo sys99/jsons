@@ -1,5 +1,4 @@
 {
-  "marca": {
     "id": "BRANDA",
     "nombre": "Marca A",
     "productos": [
@@ -16,5 +15,4 @@
         "nombre": "Producto A3"
       }
     ]
-  }
 }
