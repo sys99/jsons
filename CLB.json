@@ -23,7 +23,7 @@
           "nombre": "Actividad A3"
         }
       ],
-      "tipoCasos": [
+      "tiposCaso": [
         {
           "id": "CASO-A1",
           "nombre": "Caso tipo A1"
@@ -73,7 +73,7 @@
           "nombre": "Actividad C3"
         }
       ],
-      "tipoCasos": [
+      "tiposCaso": [
         {
           "id": "CASO-B1",
           "nombre": "Caso tipo B1"
