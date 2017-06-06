@@ -1,0 +1,58 @@
+{
+  "marcas": [
+    {
+      "id": "BRANDA",
+      "nombre": "Marca A",
+      "productos": [
+        {
+          "id": "PRODA1",
+          "nombre": "Producto A1"
+        },
+        {
+          "id": "PRODA2",
+          "nombre": "Producto A2"
+        },
+        {
+          "id": "PRODA3",
+          "nombre": "Producto A3"
+        }
+      ]
+    },
+    {
+      "id": "BRANDB",
+      "nombre": "Marca B",
+      "productos": [
+        {
+          "id": "PRODB1",
+          "nombre": "Producto B1"
+        },
+        {
+          "id": "PRODB2",
+          "nombre": "Producto B2"
+        },
+        {
+          "id": "PRODB3",
+          "nombre": "Producto B3"
+        }
+      ]
+    },
+    {
+      "id": "BRANDC",
+      "nombre": "Marca C",
+      "productos": [
+        {
+          "id": "PRODC1",
+          "nombre": "Producto C1"
+        },
+        {
+          "id": "PRODC2",
+          "nombre": "Producto C2"
+        },
+        {
+          "id": "PRODC3",
+          "nombre": "Producto C3"
+        }
+      ]
+    }
+  ]
+}
