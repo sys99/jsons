@@ -1,0 +1,40 @@
+{
+  "actividades": [
+    {
+      "id": "ACT-A1",
+      "nombre": "Actividad A1"
+    },
+    {
+      "id": "ACT-A2",
+      "nombre": "Actividad A2"
+    },
+    {
+      "id": "ACT-A3",
+      "nombre": "Actividad A3"
+    },
+    {
+      "id": "ACT-B1",
+      "nombre": "Actividad B1"
+    },
+    {
+      "id": "ACT-B2",
+      "nombre": "Actividad B2"
+    },
+    {
+      "id": "ACT-B3",
+      "nombre": "Actividad B3"
+    },
+    {
+      "id": "ACT-C1",
+      "nombre": "Actividad C1"
+    },
+    {
+      "id": "ACT-C2",
+      "nombre": "Actividad C2"
+    },
+    {
+      "id": "ACT-C3",
+      "nombre": "Actividad C3"
+    }
+  ]
+}
