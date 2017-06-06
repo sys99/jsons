@@ -59,6 +59,20 @@
           "nombre": "Actividad B3"
         }
       ],
+      "tipoCasos": [
+        {
+          "id": "CASO-B1",
+          "nombre": "Caso tipo B1"
+        },
+        {
+          "id": "CASO-B2",
+          "nombre": "Caso tipo B2"
+        },
+        {
+          "id": "CASO-B3",
+          "nombre": "Caso tipo B3"
+        }
+      ],
       "productos": [
         {
           "id": "PRODB1",
