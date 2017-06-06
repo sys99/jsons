@@ -1,0 +1,40 @@
+{
+  "tiposCaso": [
+    {
+      "id": "CASO-A1",
+      "nombre": "Caso tipo A1"
+    },
+    {
+      "id": "CASO-A2",
+      "nombre": "Caso tipo A2"
+    },
+    {
+      "id": "CASO-A3",
+      "nombre": "Caso tipo A3"
+    },
+    {
+      "id": "CASO-B1",
+      "nombre": "Caso tipo B1"
+    },
+    {
+      "id": "CASO-B2",
+      "nombre": "Caso tipo B2"
+    },
+    {
+      "id": "CASO-B3",
+      "nombre": "Caso tipo B3"
+    },
+    {
+      "id": "CASO-C1",
+      "nombre": "Caso tipo C1"
+    },
+    {
+      "id": "CASO-C2",
+      "nombre": "Caso tipo C2"
+    },
+    {
+      "id": "CASO-C3",
+      "nombre": "Caso tipo C3"
+    }
+  ]
+}
