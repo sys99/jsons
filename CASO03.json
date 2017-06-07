@@ -22,6 +22,10 @@
     "nombre": "Contrato 2"
   },
   "tipoCaso": {
+    "id": "CASO-C1",
+    "nombre": "Caso tipo C1"
+  },
+  "actividad": {
     "id": "ACT-C1",
     "nombre": "Actividad C1"
   },
