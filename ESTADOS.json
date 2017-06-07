@@ -1,0 +1,16 @@
+{
+  "estados": [
+    {
+      "id": "1",
+      "nombre": "pendiente"
+    },
+    {
+      "id": "2",
+      "nombre": "trabajando"
+    },
+    {
+      "id": "3",
+      "nombre": "finalizado"
+    }
+  ]
+}
