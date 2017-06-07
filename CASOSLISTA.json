@@ -4,7 +4,8 @@
       "id": "CASO01",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
-        "inicio": "1496088857"
+        "inicio": "1496088857",
+        "cierre": "1496098857"
       },
       "estado": {
         "id": "1",
@@ -35,7 +36,8 @@
       "id": "CASO03",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
-        "inicio": "1496088857"
+        "inicio": "1496088857",
+        "cierre": "1496098857"
       },
       "estado": {
         "id": "2",
@@ -66,7 +68,8 @@
       "id": "CASO06",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
-        "inicio": "1496088857"
+        "inicio": "1496088857",
+        "cierre": "1496098857"
       },
       "estado": {
         "id": "1",
@@ -97,7 +100,8 @@
       "id": "CASO10",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
-        "inicio": "1496088857"
+        "inicio": "1496088857",
+        "cierre": "1496098857"
       },
       "estado": {
         "id": "2",
@@ -128,7 +132,8 @@
       "id": "CASO12",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
-        "inicio": "1496088857"
+        "inicio": "1496088857",
+        "cierre": "1496098857"
       },
       "estado": {
         "id": "1",
