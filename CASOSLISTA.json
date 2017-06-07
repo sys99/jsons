@@ -30,6 +30,14 @@
       "producto": {
         "id": "PRODA2",
         "nombre": "Producto A2"
+      },
+      "tipoCaso": {
+        "id": "CASO-A2",
+        "nombre": "Caso tipo A2"
+      },
+      "actividad": {
+        "id": "ACT-A2",
+        "nombre": "Actividad A2"
       }
     },
     {
@@ -62,6 +70,14 @@
       "producto": {
         "id": "PRODC3",
         "nombre": "Producto C3"
+      },
+      "tipoCaso": {
+        "id": "CASO-C1",
+        "nombre": "Caso tipo C1"
+      },
+      "actividad": {
+        "id": "ACT-C1",
+        "nombre": "Actividad C1"
       }
     },
     {
@@ -94,6 +110,14 @@
       "producto": {
         "id": "PRODB3",
         "nombre": "Producto B3"
+      },
+      "tipoCaso": {
+        "id": "CASO-B3",
+        "nombre": "Caso tipo B3"
+      },
+      "actividad": {
+        "id": "ACT-B3",
+        "nombre": "Actividad B3"
       }
     },
     {
@@ -126,6 +150,14 @@
       "producto": {
         "id": "PRODA1",
         "nombre": "Producto A1"
+      },
+      "tipoCaso": {
+        "id": "CASO-A3",
+        "nombre": "Caso tipo A3"
+      },
+      "actividad": {
+        "id": "ACT-A3",
+        "nombre": "Actividad A3"
       }
     },
     {
@@ -158,6 +190,14 @@
       "producto": {
         "id": "PRODB1",
         "nombre": "Producto B1"
+      },
+      "tipoCaso": {
+        "id": "CASO-C2",
+        "nombre": "Caso tipo C2"
+      },
+      "actividad": {
+        "id": "ACT-C2",
+        "nombre": "Actividad C2"
       }
     }
   ]
