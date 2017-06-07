@@ -22,8 +22,12 @@
     "nombre": "Contrato 1"
   },
   "tipoCaso": {
-    "id": "ACT-B3",
-    "nombre": "Actividad B3"
+    "id": "CASO-C2",
+    "nombre": "Caso tipo C2"
+  },
+  "actividad": {
+    "id": "ACT-C2",
+    "nombre": "Actividad C2"
   },
   "ingeniero": {
     "id": "INGA",
