@@ -22,6 +22,10 @@
     "nombre": "Contrato 2"
   },
   "tipoCaso": {
+    "id": "CASO-B3",
+    "nombre": "Caso tipo B3"
+  },
+  "actividad": {
     "id": "ACT-B3",
     "nombre": "Actividad B3"
   },
