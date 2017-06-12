@@ -272,3 +272,37 @@ tiposContrato[2]
     id = ACT-C3
     nombre = Actividad C3
 ```
+
+## Evaluación mensual INGA
+
+```
+mes=5
+año=2017
+ingeniero
+  id=INGA
+  nombre=Edson Artiga
+calificaciones[0]
+  nombre=seguimiento
+  nota=75
+calificaciones[1]
+  nombre=  Entrega de hojas
+  nota=90
+calificaciones[2]
+  nombre=  documentación
+  nota=100
+calificaciones[3]
+  nombre=  horas efectivas
+  nota=80
+calificaciones[4]
+  nombre=  evaluación del cliente
+  nota=85
+calificaciones[5]
+  nombre=evaluación técnica
+  nota=100
+calificaciones[6]
+  nombre=evaluación general
+  nota=70
+calificaciones[7]
+  nombre=tiempo de solución
+  nota=60
+```
