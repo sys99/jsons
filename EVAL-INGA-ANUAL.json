@@ -2,160 +2,160 @@
   "año": "2017",
   "ingeniero": {
     "id": "INGA",
-    "nombre": "Edson Artiga",
-    "detalleAnual": [
-      {
-        "mes": "1",
-        "nota": "98",
-        "calificaciones": [
-          {
-            "nombre": "seguimiento",
-            "nota": "75"
-          },
-          {
-            "nombre": "Entrega de hojas",
-            "nota": "90"
-          },
-          {
-            "nombre": "documentación",
-            "nota": "100"
-          },
-          {
-            "nombre": "horas efectivas",
-            "nota": "80"
-          },
-          {
-            "nombre": "evaluación del cliente",
-            "nota": "85"
-          },
-          {
-            "nombre": "evaluación técnica",
-            "nota": "100"
-          },
-          {
-            "nombre": "evaluación general",
-            "nota": "70"
-          },
-          {
-            "nombre": "tiempo de solución",
-            "nota": "60"
-          }
-        ]
-      },
-      {
-        "mes": "2",
-        "nota": "80",
-        "calificaciones": [
-          {
-            "nombre": "seguimiento",
-            "nota": "75"
-          },
-          {
-            "nombre": "Entrega de hojas",
-            "nota": "90"
-          },
-          {
-            "nombre": "documentación",
-            "nota": "100"
-          },
-          {
-            "nombre": "horas efectivas",
-            "nota": "80"
-          },
-          {
-            "nombre": "evaluación del cliente",
-            "nota": "85"
-          },
-          {
-            "nombre": "evaluación técnica",
-            "nota": "100"
-          },
-          {
-            "nombre": "evaluación general",
-            "nota": "70"
-          },
-          {
-            "nombre": "tiempo de solución",
-            "nota": "60"
-          }
-        ]
-      },
-      {
-        "mes": "3",
-        "nota": "95",
-        "calificaciones": [
-          {
-            "nombre": "seguimiento",
-            "nota": "75"
-          },
-          {
-            "nombre": "Entrega de hojas",
-            "nota": "90"
-          },
-          {
-            "nombre": "documentación",
-            "nota": "100"
-          },
-          {
-            "nombre": "horas efectivas",
-            "nota": "80"
-          },
-          {
-            "nombre": "evaluación del cliente",
-            "nota": "85"
-          },
-          {
-            "nombre": "evaluación técnica",
-            "nota": "100"
-          },
-          {
-            "nombre": "evaluación general",
-            "nota": "70"
-          },
-          {
-            "nombre": "tiempo de solución",
-            "nota": "60"
-          }
-        ]
-      },
-      {
-        "mes": "4",
-        "nota": "99",
-        "calificaciones": [
-          {
-            "nombre": "seguimiento",
-            "nota": "75"
-          },
-          {
-            "nombre": "Entrega de hojas",
-            "nota": "90"
-          },
-          {
-            "nombre": "documentación",
-            "nota": "100"
-          },
-          {
-            "nombre": "horas efectivas",
-            "nota": "80"
-          },
-          {
-            "nombre": "evaluación del cliente",
-            "nota": "85"
-          },
-          {
-            "nombre": "evaluación técnica",
-            "nota": "100"
-          },
-          {
-            "nombre": "evaluación general",
-            "nota": "70"
-          },
-          {
-            "nombre": "tiempo de solución",
-            "nota": "60"
-          }
-        ]
-      }
-    ]
-  }
+    "nombre": "Edson Artiga"
+  },
+  "detalleAnual": [
+    {
+      "mes": "1",
+      "nota": "98",
+      "calificaciones": [
+        {
+          "nombre": "seguimiento",
+          "nota": "75"
+        },
+        {
+          "nombre": "Entrega de hojas",
+          "nota": "90"
+        },
+        {
+          "nombre": "documentación",
+          "nota": "100"
+        },
+        {
+          "nombre": "horas efectivas",
+          "nota": "80"
+        },
+        {
+          "nombre": "evaluación del cliente",
+          "nota": "85"
+        },
+        {
+          "nombre": "evaluación técnica",
+          "nota": "100"
+        },
+        {
+          "nombre": "evaluación general",
+          "nota": "70"
+        },
+        {
+          "nombre": "tiempo de solución",
+          "nota": "60"
+        }
+      ]
+    },
+    {
+      "mes": "2",
+      "nota": "80",
+      "calificaciones": [
+        {
+          "nombre": "seguimiento",
+          "nota": "75"
+        },
+        {
+          "nombre": "Entrega de hojas",
+          "nota": "90"
+        },
+        {
+          "nombre": "documentación",
+          "nota": "100"
+        },
+        {
+          "nombre": "horas efectivas",
+          "nota": "80"
+        },
+        {
+          "nombre": "evaluación del cliente",
+          "nota": "85"
+        },
+        {
+          "nombre": "evaluación técnica",
+          "nota": "100"
+        },
+        {
+          "nombre": "evaluación general",
+          "nota": "70"
+        },
+        {
+          "nombre": "tiempo de solución",
+          "nota": "60"
+        }
+      ]
+    },
+    {
+      "mes": "3",
+      "nota": "95",
+      "calificaciones": [
+        {
+          "nombre": "seguimiento",
+          "nota": "75"
+        },
+        {
+          "nombre": "Entrega de hojas",
+          "nota": "90"
+        },
+        {
+          "nombre": "documentación",
+          "nota": "100"
+        },
+        {
+          "nombre": "horas efectivas",
+          "nota": "80"
+        },
+        {
+          "nombre": "evaluación del cliente",
+          "nota": "85"
+        },
+        {
+          "nombre": "evaluación técnica",
+          "nota": "100"
+        },
+        {
+          "nombre": "evaluación general",
+          "nota": "70"
+        },
+        {
+          "nombre": "tiempo de solución",
+          "nota": "60"
+        }
+      ]
+    },
+    {
+      "mes": "4",
+      "nota": "99",
+      "calificaciones": [
+        {
+          "nombre": "seguimiento",
+          "nota": "75"
+        },
+        {
+          "nombre": "Entrega de hojas",
+          "nota": "90"
+        },
+        {
+          "nombre": "documentación",
+          "nota": "100"
+        },
+        {
+          "nombre": "horas efectivas",
+          "nota": "80"
+        },
+        {
+          "nombre": "evaluación del cliente",
+          "nota": "85"
+        },
+        {
+          "nombre": "evaluación técnica",
+          "nota": "100"
+        },
+        {
+          "nombre": "evaluación general",
+          "nota": "70"
+        },
+        {
+          "nombre": "tiempo de solución",
+          "nota": "60"
+        }
+      ]
+    }
+  ]
 }
