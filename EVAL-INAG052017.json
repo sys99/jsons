@@ -1,0 +1,42 @@
+{
+  "mes": "5",
+  "año": "2017",
+  "ingeniero": {
+    "id": "INGA",
+    "nombre": "Edson Artiga"
+  },
+  "calificaciones": [
+    {
+      "nombre": "seguimiento",
+      "nota": "75"
+    },
+    {
+      "nombre": "Entrega de hojas",
+      "nota": "90"
+    },
+    {
+      "nombre": "documentación",
+      "nota": "100"
+    },
+    {
+      "nombre": "horas efectivas",
+      "nota": "80"
+    },
+    {
+      "nombre": "evaluación del cliente",
+      "nota": "85"
+    },
+    {
+      "nombre": "evaluación técnica",
+      "nota": "100"
+    },
+    {
+      "nombre": "evaluación general",
+      "nota": "70"
+    },
+    {
+      "nombre": "tiempo de solución",
+      "nota": "60"
+    }
+  ]
+}
