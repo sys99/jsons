@@ -306,3 +306,119 @@ calificaciones[7]
   nombre=tiempo de solución
   nota=60
 ```
+
+## Evaluación Anual
+```
+año=2017
+ingeniero
+  id=INGA
+  nombre=Edson Artiga
+  detalleAnual[0]
+    mes=1
+    nota=98
+    calificaciones[0]
+      nombre=seguimiento
+      nota=75
+    calificaciones[1]
+      nombre=  Entrega de hojas
+      nota=90
+    calificaciones[2]
+      nombre=  documentación
+      nota=100
+    calificaciones[3]
+      nombre=  horas efectivas
+      nota=80
+    calificaciones[4]
+      nombre=  evaluación del cliente
+      nota=85
+    calificaciones[5]
+      nombre=evaluación técnica
+      nota=100
+    calificaciones[6]
+      nombre=evaluación general
+      nota=70
+    calificaciones[7]
+      nombre=tiempo de solución
+      nota=60
+  detalleAnual[1]
+    mes=2
+    nota=80
+    calificaciones[0]
+       nombre=seguimiento
+       nota=75
+    calificaciones[1]
+       nombre=  Entrega de hojas
+       nota=90
+    calificaciones[2]
+      nombre=  documentación
+      nota=100
+    calificaciones[3]
+      nombre=  horas efectivas
+      nota=80
+    calificaciones[4]
+      nombre=  evaluación del cliente
+      nota=85
+    calificaciones[5]
+      nombre=evaluación técnica
+      nota=100
+    calificaciones[6]
+      nombre=evaluación general
+      nota=70
+    calificaciones[7]
+      nombre=tiempo de solución
+      nota=60
+  detalleAnual[3]
+    mes=4
+    nota=99
+    calificaciones[0]
+      nombre=seguimiento
+      nota=75
+    calificaciones[1]
+      nombre=  Entrega de hojas
+      nota=90
+    calificaciones[2]
+      nombre=  documentación
+      nota=100
+    calificaciones[3]
+      nombre=  horas efectivas
+      nota=80
+    calificaciones[4]
+      nombre=  evaluación del cliente
+      nota=85
+    calificaciones[5]
+      nombre=evaluación técnica
+      nota=100
+    calificaciones[6]
+      nombre=evaluación general
+      nota=70
+    calificaciones[7]
+      nombre=tiempo de solución
+      nota=60
+  detalleAnual[2]
+    mes=3
+    nota=95
+    calificaciones[0]
+      nombre=seguimiento
+      nota=75
+    calificaciones[1]
+      nombre=  Entrega de hojas
+      nota=90
+    calificaciones[2]
+      nombre=  documentación
+      nota=100
+    calificaciones[3]
+      nombre=  horas efectivas
+      nota=80
+    calificaciones[4]
+      nombre=  evaluación del cliente
+      nota=85
+    calificaciones[5]
+      nombre=evaluación técnica
+      nota=100
+    calificaciones[6]
+      nombre=evaluación general
+      nota=70
+    calificaciones[7]
+      nombre=tiempo de solución
+      nota=60
+```
