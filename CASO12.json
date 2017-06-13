@@ -14,8 +14,12 @@
     "id": "CLC",
     "nombre": "Cliente C"
   },
+  "dependencia": {
+    "id": "CLC-DEPA",
+    "nombre": "Dependencia A"
+  },
   "solicitante": {
-    "id": "CLC-SC",
+    "id": "CLC-DEPA-SC",
     "nombre": "Solicitante C"
   },
   "servicio": {
