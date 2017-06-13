@@ -14,11 +14,15 @@
     "id": "CLB",
     "nombre": "Cliente B"
   },
+  "dependencia": {
+    "id": "CLB-DEPA",
+    "nombre": "Dependencia A"
+  },
   "solicitante": {
-    "id": "CLB-SB",
+    "id": "CLB-DEPA-SB",
     "nombre": "Solicitante B"
   },
-  "contrato": {
+  "servicio": {
     "id": "CLB-CONT01",
     "nombre": "Contrato 1"
   },
@@ -38,6 +42,7 @@
     "id": "PRODA2",
     "nombre": "Producto A2"
   },
+  "servidor": "",
   "severidad": {
     "id": "S04",
     "nombre": "Severidad 4"
