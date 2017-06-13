@@ -14,8 +14,12 @@
     "id": "CLB",
     "nombre": "Cliente B"
   },
+  "dependencia": {
+    "id": "CLB-DEPB",
+    "nombre": "Dependencia B"
+  },
   "solicitante": {
-    "id": "CLB-SB",
+    "id": "CLB-DEPB-SB",
     "nombre": "Solicitante B"
   },
   "servicio": {
