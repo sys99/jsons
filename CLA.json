@@ -40,15 +40,18 @@
       "productos": [
         {
           "id": "PRODA1",
-          "nombre": "Producto A1"
+          "nombre": "Producto A1",
+          "servidores": ""
         },
         {
           "id": "PRODA2",
-          "nombre": "Producto A2"
+          "nombre": "Producto A2",
+          "servidores": ""
         },
         {
           "id": "PRODA3",
-          "nombre": "Producto A3"
+          "nombre": "Producto A3",
+          "servidores": ""
         }
       ]
     },
@@ -90,15 +93,18 @@
       "productos": [
         {
           "id": "PRODB1",
-          "nombre": "Producto B1"
+          "nombre": "Producto B1",
+          "servidores": ""
         },
         {
           "id": "PRODB2",
-          "nombre": "Producto B2"
+          "nombre": "Producto B2",
+          "servidores": ""
         },
         {
           "id": "PRODB3",
-          "nombre": "Producto B3"
+          "nombre": "Producto B3",
+          "servidores": ""
         }
       ]
     }
