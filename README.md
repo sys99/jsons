@@ -13,6 +13,9 @@ contratos[0]
   tipo
     id = CONT-TIPB
     nombre = Tipo B
+  fecha
+    inicio=1496229917
+    cierre=1596229917
    actividades[0]
      id = ACT-B1
      nombre = Actividad B1
@@ -25,19 +28,38 @@ contratos[0]
   productos[0]
     id = PRODB1
     nombre = Producto B1
+    servidores[0]
+      id=CLC-SERV-B1
+      nombre=Servidor B1
+      tipo=producción
   productos[1]
     id = PRODB2
     nombre = Producto B2
+    servidores[0]
+      id=CLC-SERV-B2
+      nombre=Servidor B2
+      tipo=producción
+    servidores[1]
+      id=CLC-SERV-B2B
+      nombre=Servidor B2B
+      tipo=pruebas
   productos[2]
     id = PRODB3
     nombre = Producto B3
+    servidores[0]
+      id=CLC-SERV-A
+      nombre=Servidor B3
+      tipo=producción
 contratos[1]
   id = CLC-CONT02
   nombre = Contrato 2
   tipo
     id = CONT-TIPC
     nombre = Tipo C
-   actividades[0]
+  fecha
+    inicio=1496229917
+    cierre=1596229917
+  actividades[0]
      id = ACT-C1
      nombre = Actividad C1
    actividades[1]
@@ -49,21 +71,91 @@ contratos[1]
   productos[0]
     id = PRODC1
     nombre = Producto C1
+    servidores[0]
+      id=CLC-SERV-C1
+      nombre=Servidor C1
+      tipo=producción
   productos[1]
     id = PRODC2
     nombre = Producto C2
+    servidores[0]
+      id=CLC-SERV-C2
+      nombre=Servidor C2
+      tipo=producción
   productos[2]
     id = PRODC3
     nombre = Producto C3
-solicitantes[0]
-  id = CLC-SA
-  nombre = Solicitante A
-solicitantes[1]
-  id = CLC-SB
-  nombre = Solicitante B
-solicitantes[2]
-  id = CLC-SC
-  nombre = Solicitante C
+    servidores[0]
+      id=CLC-SERV-C3
+      nombre=Servidor C3
+      tipo=producción
+proyectos[0]
+  id = CLC-PRO01
+  nombre = Proyecto 1
+  tipo
+    id = PROY-TIPB
+    nombre = Tipo B
+  fecha
+    inicio=1496229917
+    cierre=1596229917
+   actividades[0]
+     id = ACT-B1
+     nombre = Actividad B1
+   actividades[1]
+     id = ACT-B2
+     nombre = Actividad B2
+   actividades[2]
+     id = ACT-B3
+     nombre = Actividad B3
+  productos[0]
+    id = PRODB1
+    nombre = Producto B1
+    servidores[0]
+      id=CLC-SERV-B1
+      nombre=Servidor B1
+      tipo=producción
+  productos[1]
+    id = PRODB2
+    nombre = Producto B2
+    servidores[0]
+      id=CLC-SERV-B2
+      nombre=Servidor B2
+      tipo=producción
+    servidores[1]
+      id=CLC-SERV-B2B
+      nombre=Servidor B2B
+      tipo=pruebas
+  productos[2]
+    id = PRODB3
+    nombre = Producto B3
+    servidores[0]
+      id=CLC-SERV-A
+      nombre=Servidor B3
+      tipo=producción
+dependencias[0]
+  id = ClC-DEPA
+  nombre = Dependencia A
+  solicitantes[0]
+    id = CLC-DEPA-SA
+    nombre = Solicitante A
+  solicitantes[1]
+    id = CLC-DEPA-SB
+    nombre = Solicitante B
+  solicitantes[2]
+    id = CLC-DEPA-SC
+    nombre = Solicitante C
+dependencias[1]
+  id = ClC-DEPB
+  nombre = Dependencia B
+  solicitantes[0]
+    id = CLC-DEPB-SA
+    nombre = Solicitante A
+  solicitantes[1]
+    id = CLC-DEPB-SB
+    nombre = Solicitante B
+  solicitantes[2]
+    id = CLC-DEPB-SC
+    nombre = Solicitante C
 ```
 ## Lista de casos resumida
 ```
