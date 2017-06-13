@@ -1,13 +1,13 @@
 {
   "id": "CLB",
   "nombre": "Cliente B",
-  "contratos": [
+  "servicios": [
     {
       "id": "CLB-CONT01",
       "nombre": "Contrato 1",
       "tipo": {
-        "id": "CONT-TIPA",
-        "nombre": "Tipo A"
+        "id": "CONT",
+        "nombre": "Contrato"
       },
       "actividades": [
         {
@@ -53,11 +53,11 @@
       ]
     },
     {
-      "id": "CLB-CONT02",
-      "nombre": "Contrato 2",
+      "id": "CLB-PRO01",
+      "nombre": "Proyecto 1",
       "tipo": {
-        "id": "CONT-TIPC",
-        "nombre": "Tipo C"
+        "id": "PROY",
+        "nombre": "Proyecto"
       },
       "actividades": [
         {
