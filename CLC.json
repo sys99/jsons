@@ -1,7 +1,7 @@
 {
   "id": "CLC",
   "nombre": "Cliente C",
-  "contratos": [
+  "servicios": [
     {
       "id": "CLC-CONT01",
       "nombre": "Contrato 1",
@@ -69,10 +69,10 @@
       ]
     },
     {
-      "id": "CLC-CONT02",
-      "nombre": "Contrato 2",
+      "id": "CLC-PRO01",
+      "nombre": "Proyecto 1",
       "tipo": {
-        "id": "CONT-TIPC",
+        "id": "PRO-TIPC",
         "nombre": "Tipo C"
       },
       "fecha": {
@@ -123,74 +123,6 @@
             {
               "id": "CLC-SERV-C3",
               "nombre": "Servidor C3",
-              "tipo": "producción"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "proyectos": [
-    {
-      "id": "CLC-PRO01",
-      "nombre": "Proyecto 1",
-      "tipo": {
-        "id": "PROY-TIPB",
-        "nombre": "Tipo B"
-      },
-      "fecha": {
-        "inicio": "1496229917",
-        "cierre": "1596229917"
-      },
-      "actividades": [
-        {
-          "id": "ACT-B1",
-          "nombre": "Actividad B1"
-        },
-        {
-          "id": "ACT-B2",
-          "nombre": "Actividad B2"
-        },
-        {
-          "id": "ACT-B3",
-          "nombre": "Actividad B3"
-        }
-      ],
-      "productos": [
-        {
-          "id": "PRODB1",
-          "nombre": "Producto B1",
-          "servidores": [
-            {
-              "id": "CLC-SERV-B1",
-              "nombre": "Servidor B1",
-              "tipo": "producción"
-            }
-          ]
-        },
-        {
-          "id": "PRODB2",
-          "nombre": "Producto B2",
-          "servidores": [
-            {
-              "id": "CLC-SERV-B2",
-              "nombre": "Servidor B2",
-              "tipo": "producción"
-            },
-            {
-              "id": "CLC-SERV-B2B",
-              "nombre": "Servidor B2B",
-              "tipo": "pruebas"
-            }
-          ]
-        },
-        {
-          "id": "PRODB3",
-          "nombre": "Producto B3",
-          "servidores": [
-            {
-              "id": "CLC-SERV-A",
-              "nombre": "Servidor B3",
               "tipo": "producción"
             }
           ]
