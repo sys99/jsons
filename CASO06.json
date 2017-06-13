@@ -14,8 +14,12 @@
     "id": "CLA",
     "nombre": "Cliente A"
   },
+  "dependencia": {
+    "id": "CLA-DEPA",
+    "nombre": "Dependencia A"
+  },
   "solicitante": {
-    "id": "CLA-SC",
+    "id": "CLA-DEPA-SC",
     "nombre": "Solicitante C"
   },
   "servicio": {
