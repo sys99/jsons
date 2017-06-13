@@ -109,18 +109,42 @@
       ]
     }
   ],
-  "solicitantes": [
+  "dependencias": [
     {
-      "id": "CLA-SA",
-      "nombre": "Solicitante A"
+      "id": "CLA-DEPA",
+      "nombre": "Dependencia A",
+      "solicitantes": [
+        {
+          "id": "CLA-DEPA-SA",
+          "nombre": "Solicitante A"
+        },
+        {
+          "id": "CLA-DEPA-SB",
+          "nombre": "Solicitante B"
+        },
+        {
+          "id": "CLA-DEPA-SC",
+          "nombre": "Solicitante C"
+        }
+      ]
     },
     {
-      "id": "CLA-SB",
-      "nombre": "Solicitante B"
-    },
-    {
-      "id": "CLA-SC",
-      "nombre": "Solicitante C"
+      "id": "CLA-DEPB",
+      "nombre": "Dependencia B",
+      "solicitantes": [
+        {
+          "id": "CLA-DEPB-SD",
+          "nombre": "Solicitante D"
+        },
+        {
+          "id": "CLA-DEPB-SE",
+          "nombre": "Solicitante E"
+        },
+        {
+          "id": "CLA-DEPB-SF",
+          "nombre": "Solicitante F"
+        }
+      ]
     }
   ]
 }
