@@ -109,18 +109,42 @@
       ]
     }
   ],
-  "solicitantes": [
+  "dependencias": [
     {
-      "id": "CLB-SA",
-      "nombre": "Solicitante A"
+      "id": "CLB-DEPA",
+      "nombre": "Dependencia A",
+      "solicitantes": [
+        {
+          "id": "CLB-DEPA-SA",
+          "nombre": "Solicitante A"
+        },
+        {
+          "id": "CLB-DEPA-SB",
+          "nombre": "Solicitante B"
+        },
+        {
+          "id": "CLB-DEPA-SC",
+          "nombre": "Solicitante C"
+        }
+      ]
     },
     {
-      "id": "CLB-SB",
-      "nombre": "Solicitante B"
-    },
-    {
-      "id": "CLB-SC",
-      "nombre": "Solicitante C"
+      "id": "CLB-DEPB",
+      "nombre": "Dependencia B",
+      "solicitantes": [
+        {
+          "id": "CLB-DEPB-SD",
+          "nombre": "Solicitante D"
+        },
+        {
+          "id": "CLB-DEPB-SE",
+          "nombre": "Solicitante E"
+        },
+        {
+          "id": "CLB-DEPB-SF",
+          "nombre": "Solicitante F"
+        }
+      ]
     }
   ]
 }
