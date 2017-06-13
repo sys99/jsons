@@ -51,17 +51,18 @@
       },
       "tiempo": "2",
       "autor": "Edson Artiga",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti."
-    }
-  ],
-  "archivos": [
-    {
-      "id": "CASO12-ADJ01",
-      "fecha": "1496088857",
-      "autor": "Edson Artiga",
-      "tipo": "pdf",
-      "nombre": "calendarizacion-respaldos.pdf",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti."
+      "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
+      "impreso": "",
+      "adjuntos": [
+        {
+          "nombre": "Archivo de pruebas 1",
+          "archivo": "test1.pdf"
+        },
+        {
+          "nombre": "Archivo de pruebas 2",
+          "archivo": "test2.docx"
+        }
+      ]
     }
   ]
 }
