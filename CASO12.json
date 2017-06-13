@@ -9,6 +9,7 @@
     "id": "1",
     "nombre": "pendiente"
   },
+  "impreso": "",
   "cliente": {
     "id": "CLC",
     "nombre": "Cliente C"
