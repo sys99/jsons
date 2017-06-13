@@ -3,11 +3,11 @@
   "nombre": "Cliente A",
   "contratos": [
     {
-      "id": "CLA-CONT01",
-      "nombre": "Contrato 1",
+      "id": "CLA-PRO01",
+      "nombre": "Proyecto 1",
       "tipo": {
-        "id": "CONT-TIPA",
-        "nombre": "Tipo A"
+        "id": "PROY",
+        "nombre": "Proyecto"
       },
       "actividades": [
         {
@@ -56,8 +56,8 @@
       "id": "CLA-CONT02",
       "nombre": "Contrato 2",
       "tipo": {
-        "id": "CONT-TIPB",
-        "nombre": "Tipo B"
+        "id": "CONT",
+        "nombre": "Contrato"
       },
       "actividades": [
         {
