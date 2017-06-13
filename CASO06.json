@@ -18,7 +18,7 @@
     "id": "CLA-SC",
     "nombre": "Solicitante C"
   },
-  "contrato": {
+  "servicio": {
     "id": "CLA-CONT02",
     "nombre": "Contrato 2"
   },
@@ -38,6 +38,7 @@
     "id": "PRODB3",
     "nombre": "Producto B3"
   },
+  "servidor": "",
   "severidad": {
     "id": "S02",
     "nombre": "Severidad 2"
