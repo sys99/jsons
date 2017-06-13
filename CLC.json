@@ -6,8 +6,8 @@
       "id": "CLC-CONT01",
       "nombre": "Contrato 1",
       "tipo": {
-        "id": "CONT-TIPB",
-        "nombre": "Tipo B"
+        "id": "CONT",
+        "nombre": "Contrato"
       },
       "fecha": {
         "inicio": "1496229917",
@@ -72,8 +72,8 @@
       "id": "CLC-PRO01",
       "nombre": "Proyecto 1",
       "tipo": {
-        "id": "PRO-TIPC",
-        "nombre": "Tipo C"
+        "id": "PROY",
+        "nombre": "Proyecto"
       },
       "fecha": {
         "inicio": "1496229917",
