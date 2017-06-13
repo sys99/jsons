@@ -18,7 +18,7 @@
     "id": "CLC-SC",
     "nombre": "Solicitante C"
   },
-  "contrato": {
+  "servicio": {
     "id": "CLC-CONT01",
     "nombre": "Contrato 1"
   },
@@ -38,6 +38,7 @@
     "id": "PRODB1",
     "nombre": "Producto B1"
   },
+  "servidor": "",
   "severidad": {
     "id": "S01",
     "nombre": "Severidad 1"
