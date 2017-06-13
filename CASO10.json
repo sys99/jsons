@@ -38,6 +38,7 @@
     "id": "PRODA1",
     "nombre": "Producto A1"
   },
+  "servidor": "",
   "severidad": {
     "id": "S03",
     "nombre": "Severidad 3"
