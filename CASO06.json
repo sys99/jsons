@@ -9,6 +9,7 @@
     "id": "1",
     "nombre": "pendiente"
   },
+  "impreso": "",
   "cliente": {
     "id": "CLA",
     "nombre": "Cliente A"
@@ -63,16 +64,6 @@
           "archivo": "test2.docx"
         }
       ]
-    }
-  ],
-  "archivos": [
-    {
-      "id": "CASO06-ADJ01",
-      "fecha": "1496088857",
-      "autor": "Edson Artiga",
-      "tipo": "pdf",
-      "nombre": "servidores.pdf",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti."
     }
   ]
 }
