@@ -51,7 +51,18 @@
       },
       "tiempo": "2",
       "autor": "Ricardo Jaimes",
-      "descripcion": "UP01 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti."
+      "descripcion": "UP01 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
+      "impreso": "",
+      "adjuntos": [
+        {
+          "nombre": "Archivo de pruebas 1",
+          "archivo": "test1.pdf"
+        },
+        {
+          "nombre": "Archivo de pruebas 2",
+          "archivo": "test2.docx"
+        }
+      ]
     },
     {
       "id": "CASO03-UP02",
@@ -61,7 +72,18 @@
       },
       "tiempo": "3",
       "autor": "Ricardo Jaimes",
-      "descripcion": "UP02 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti."
+      "descripcion": "UP02 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
+      "impreso": "CASO03-UP02.pdf",
+      "adjuntos": [
+        {
+          "nombre": "Archivo de pruebas 3",
+          "archivo": "test3.pdf"
+        },
+        {
+          "nombre": "Archivo de pruebas 4",
+          "archivo": "test4.docx"
+        }
+      ]
     }
   ],
   "archivos": [
