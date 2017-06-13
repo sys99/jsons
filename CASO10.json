@@ -18,7 +18,7 @@
     "id": "CLB-SB",
     "nombre": "Solicitante B"
   },
-  "contrato": {
+  "servicio": {
     "id": "CLB-CONT01",
     "nombre": "Contrato 1"
   },
