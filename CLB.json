@@ -25,16 +25,16 @@
       ],
       "tiposCaso": [
         {
-          "id": "CASO-A1",
-          "nombre": "Caso tipo A1"
+          "id": "CASO-D1",
+          "nombre": "Caso tipo D1"
         },
         {
-          "id": "CASO-A2",
-          "nombre": "Caso tipo A2"
+          "id": "CASO-D2",
+          "nombre": "Caso tipo D2"
         },
         {
-          "id": "CASO-A3",
-          "nombre": "Caso tipo A3"
+          "id": "CASO-D3",
+          "nombre": "Caso tipo D3"
         }
       ],
       "productos": [
