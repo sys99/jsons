@@ -27,6 +27,20 @@
           "nombre": "Actividad B3"
         }
       ],
+      "tiposCaso": [
+        {
+          "id": "CASO-A1",
+          "nombre": "Caso tipo A1"
+        },
+        {
+          "id": "CASO-A2",
+          "nombre": "Caso tipo A2"
+        },
+        {
+          "id": "CASO-A3",
+          "nombre": "Caso tipo A3"
+        }
+      ],
       "productos": [
         {
           "id": "PRODB1",
@@ -91,6 +105,20 @@
         {
           "id": "ACT-C3",
           "nombre": "Actividad C3"
+        }
+      ],
+      "tiposCaso": [
+        {
+          "id": "CASO-A1",
+          "nombre": "Caso tipo A1"
+        },
+        {
+          "id": "CASO-A2",
+          "nombre": "Caso tipo A2"
+        },
+        {
+          "id": "CASO-A3",
+          "nombre": "Caso tipo A3"
         }
       ],
       "productos": [
