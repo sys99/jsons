@@ -1,0 +1,45 @@
+{
+  "id": "CLD",
+  "nombre": "Cliente D",
+  "servicios": [
+    {
+      "id": "CLD-CONT01",
+      "nombre": "Contrato 1",
+      "tipo": {
+        "id": "CONT",
+        "nombre": "Contrato"
+      },
+      "actividades": [
+        {
+          "id": "ACT-A1",
+          "nombre": "Actividad A1"
+        }
+      ],
+      "tiposCaso": [
+        {
+          "id": "CASO-D1",
+          "nombre": "Caso tipo D1"
+        }
+      ],
+      "productos": [
+        {
+          "id": "PRODA1",
+          "nombre": "Producto A1",
+          "servidores": ""
+        }
+      ]
+    }
+  ],
+  "dependencias": [
+    {
+      "id": "CLB-DEPA",
+      "nombre": "Dependencia A",
+      "solicitantes": [
+        {
+          "id": "CLB-DEPA-SA",
+          "nombre": "Solicitante A"
+        }
+      ]
+    }
+  ]
+}
