@@ -11,6 +11,10 @@
     {
       "id": "CLC",
       "nombre": "Cliente C"
+    },
+    {
+      "id": "CLD",
+      "nombre": "Cliente D"
     }
   ]
 }
