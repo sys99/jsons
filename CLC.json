@@ -55,30 +55,11 @@
         },
         {
           "id": "PRODB2",
-          "nombre": "Producto B2",
-          "servidores": [
-            {
-              "id": "CLC-SERV-B2",
-              "nombre": "Servidor B2",
-              "tipo": "producción"
-            },
-            {
-              "id": "CLC-SERV-B2B",
-              "nombre": "Servidor B2B",
-              "tipo": "pruebas"
-            }
-          ]
+          "nombre": "Producto B2"
         },
         {
           "id": "PRODB3",
-          "nombre": "Producto B3",
-          "servidores": [
-            {
-              "id": "CLC-SERV-A",
-              "nombre": "Servidor B3",
-              "tipo": "producción"
-            }
-          ]
+          "nombre": "Producto B3"
         }
       ]
     },
@@ -124,38 +105,29 @@
       "productos": [
         {
           "id": "PRODC1",
-          "nombre": "Producto C1",
-          "servidores": [
-            {
-              "id": "CLC-SERV-C1",
-              "nombre": "Servidor C1",
-              "tipo": "producción"
-            }
-          ]
+          "nombre": "Producto C1"
         },
         {
           "id": "PRODC2",
-          "nombre": "Producto C2",
-          "servidores": [
-            {
-              "id": "CLC-SERV-C2",
-              "nombre": "Servidor C2",
-              "tipo": "producción"
-            }
-          ]
+          "nombre": "Producto C2"
         },
         {
           "id": "PRODC3",
-          "nombre": "Producto C3",
-          "servidores": [
-            {
-              "id": "CLC-SERV-C3",
-              "nombre": "Servidor C3",
-              "tipo": "producción"
-            }
-          ]
+          "nombre": "Producto C3"
         }
       ]
+    }
+  ],
+  "servidores": [
+    {
+      "id": "CLC-SERV-B2",
+      "nombre": "Servidor B2",
+      "tipo": "producción"
+    },
+    {
+      "id": "CLC-SERV-B2B",
+      "nombre": "Servidor B2B",
+      "tipo": "pruebas"
     }
   ],
   "dependencias": [
