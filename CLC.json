@@ -41,25 +41,34 @@
           "nombre": "Caso tipo A3"
         }
       ],
-      "productos": [
+      "marcas": [
         {
-          "id": "PRODB1",
-          "nombre": "Producto B1",
-          "servidores": [
+          "id": "MSN",
+          "nombre": "Microsoft",
+          "productos": [
             {
-              "id": "CLC-SERV-B1",
-              "nombre": "Servidor B1",
-              "tipo": "producción"
+              "id": "MSN-PROD1",
+              "nombre": "Office 365"
+            },
+            {
+              "id": "MSN-PROD2",
+              "nombre": "SQL Server"
             }
           ]
         },
         {
-          "id": "PRODB2",
-          "nombre": "Producto B2"
-        },
-        {
-          "id": "PRODB3",
-          "nombre": "Producto B3"
+          "id": "REDHAT",
+          "nombre": "RedHat",
+          "productos": [
+            {
+              "id": "REDHAT-PROD1",
+              "nombre": "JBoss EAP 6.4"
+            },
+            {
+              "id": "REDHAT-PROD2",
+              "nombre": "RedHat Linux Enterprise"
+            }
+          ]
         }
       ]
     },
@@ -102,18 +111,20 @@
           "nombre": "Caso tipo A3"
         }
       ],
-      "productos": [
+      "marcas": [
         {
-          "id": "PRODC1",
-          "nombre": "Producto C1"
-        },
-        {
-          "id": "PRODC2",
-          "nombre": "Producto C2"
-        },
-        {
-          "id": "PRODC3",
-          "nombre": "Producto C3"
+          "id": "ORACLE",
+          "nombre": "Oracle",
+          "productos": [
+            {
+              "id": "ORACLE-PROD1",
+              "nombre": "Oracle Database 12c"
+            },
+            {
+              "id": "ORACLE-PROD03",
+              "nombre": "Oracle WebLogic 12c"
+            }
+          ]
         }
       ]
     }
