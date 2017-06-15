@@ -21,11 +21,20 @@
           "nombre": "Caso tipo D1"
         }
       ],
-      "productos": [
+      "marcas": [
         {
-          "id": "PRODA1",
-          "nombre": "Producto A1",
-          "servidores": ""
+          "id": "MSN",
+          "nombre": "Microsoft",
+          "productos": [
+            {
+              "id": "PROD1",
+              "nombre": "Office 365"
+            },
+            {
+              "id": "PROD2",
+              "nombre": "SQL Server"
+            }
+          ]
         }
       ]
     }
