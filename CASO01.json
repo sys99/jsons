@@ -11,7 +11,7 @@
     "id": "3",
     "nombre": "pre-finalizado"
   },
-  "impreso": "",
+  "impreso": null,
   "cliente": {
     "id": "CLB",
     "nombre": "Cliente B"
@@ -44,7 +44,7 @@
     "id": "PRODA2",
     "nombre": "Producto A2"
   },
-  "servidor": "",
+  "servidor": null,
   "severidad": {
     "id": "S04",
     "nombre": "Severidad 4"
