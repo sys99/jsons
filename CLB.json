@@ -3,11 +3,11 @@
   "nombre": "Cliente B",
   "servicios": [
     {
-      "id": "CLB-CONT01",
-      "nombre": "Contrato 1",
+      "id": "CLB-PROY02",
+      "nombre": "Proyecto 2",
       "tipo": {
-        "id": "CONT",
-        "nombre": "Contrato"
+        "id": "PROY",
+        "nombre": "proyecto"
       },
       "actividades": [
         {
@@ -37,68 +37,30 @@
           "nombre": "Caso tipo D3"
         }
       ],
-      "productos": [
+      "marcas": [
         {
-          "id": "PRODA1",
-          "nombre": "Producto A1"
+          "id": "ORACLE",
+          "nombre": "Oracle",
+          "productos": [
+            {
+              "id": "ORACLE-PROD01",
+              "nombre": "Oracle Database 12c"
+            },
+            {
+              "id": "ORACLE-PROD2",
+              "nombre": "Oracle Linux 6"
+            }
+          ]
         },
         {
-          "id": "PRODA2",
-          "nombre": "Producto A2"
-        },
-        {
-          "id": "PRODA3",
-          "nombre": "Producto A3"
-        }
-      ]
-    },
-    {
-      "id": "CLB-PRO01",
-      "nombre": "Proyecto 1",
-      "tipo": {
-        "id": "PROY",
-        "nombre": "Proyecto"
-      },
-      "actividades": [
-        {
-          "id": "ACT-C1",
-          "nombre": "Actividad C1"
-        },
-        {
-          "id": "ACT-C2",
-          "nombre": "Actividad C2"
-        },
-        {
-          "id": "ACT-C3",
-          "nombre": "Actividad C3"
-        }
-      ],
-      "tiposCaso": [
-        {
-          "id": "CASO-B1",
-          "nombre": "Caso tipo B1"
-        },
-        {
-          "id": "CASO-B2",
-          "nombre": "Caso tipo B2"
-        },
-        {
-          "id": "CASO-B3",
-          "nombre": "Caso tipo B3"
-        }
-      ],
-      "productos": [
-        {
-          "id": "PRODC1",
-          "nombre": "Producto C1"
-        },
-        {
-          "id": "PRODC2",
-          "nombre": "Producto C2"
-        },
-        {
-          "id": "PRODC3",
-          "nombre": "Producto C3"
+          "id": "MSN",
+          "nombre": "Microsoft",
+          "productos": [
+            {
+              "id": "MSN-PROD01",
+              "nombre": "Office 365"
+            }
+          ]
         }
       ]
     }
