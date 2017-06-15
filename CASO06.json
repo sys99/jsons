@@ -11,7 +11,7 @@
     "id": "2",
     "nombre": "trabajando"
   },
-  "impreso": "",
+  "impreso": null,
   "cliente": {
     "id": "CLA",
     "nombre": "Cliente A"
