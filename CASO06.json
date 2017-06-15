@@ -5,7 +5,7 @@
     "inicio": "1497423600",
     "actualizacionPrevia":"1497423600",
     "actualizacion": "1497510000",
-    "cierre": ""
+    "cierre": null
   },
   "estado": {
     "id": "2",
@@ -44,7 +44,7 @@
     "id": "PRODB3",
     "nombre": "Producto B3"
   },
-  "servidor": "",
+  "servidor": null,
   "severidad": {
     "id": "S02",
     "nombre": "Severidad 2"
@@ -60,7 +60,7 @@
       "tiempo": "2",
       "autor": "Edson Artiga",
       "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
-      "impreso": "",
+      "impreso": null,
       "adjuntos": [
         {
           "nombre": "Archivo de pruebas 1",
