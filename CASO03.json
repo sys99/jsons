@@ -2,8 +2,9 @@
   "id": "CASO03",
   "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
   "fecha": {
-    "inicio": "1496088857",
-    "cierre": "1496090887"
+    "inicio": "1497250800",
+    "actualizacion": "1497337200",
+    "cierre": ""
   },
   "estado": {
     "id": "2",
@@ -56,8 +57,8 @@
     {
       "id": "CASO03-UP01",
        "fecha": {
-        "inicio": "1496088857",
-        "cierre": "1496090887"
+        "inicio": "1497250800",
+        "cierre": "1497320200"
       },
       "tiempo": "2",
       "autor": "Ricardo Jaimes",
@@ -77,8 +78,8 @@
     {
       "id": "CASO03-UP02",
        "fecha": {
-        "inicio": "1597088857",
-        "cierre": "1697000887"
+        "inicio": "1497321500",
+        "cierre": "1497337200"
       },
       "tiempo": "3",
       "autor": "Ricardo Jaimes",
