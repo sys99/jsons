@@ -5,7 +5,8 @@
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
         "inicio": "1496088857",
-        "cierre": "1496098857"
+        "actualizacion": "1496198857",
+        "cierre": ""
       },
       "estado": {
         "id": "1",
@@ -38,15 +39,15 @@
       "actividad": {
         "id": "ACT-A2",
         "nombre": "Actividad A2"
-      },
-      "actualizacion": "1496098857"
+      }
     },
     {
       "id": "CASO03",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
         "inicio": "1496088857",
-        "cierre": "1496098857"
+        "actualizacion": "1496198857",
+        "cierre": ""
       },
       "estado": {
         "id": "2",
@@ -80,14 +81,14 @@
         "id": "ACT-C1",
         "nombre": "Actividad C1"
       },
-      "actualizacion": "1496198857"
     },
     {
       "id": "CASO06",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
         "inicio": "1496088857",
-        "cierre": "1496098857"
+        "actualizacion": "1496198857",
+        "cierre": ""
       },
       "estado": {
         "id": "1",
@@ -120,15 +121,15 @@
       "actividad": {
         "id": "ACT-B3",
         "nombre": "Actividad B3"
-      },
-      "actualizacion": "1497178857"
+      }
     },
     {
       "id": "CASO10",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
         "inicio": "1496088857",
-        "cierre": "1496098857"
+        "actualizacion": "1496198857",
+        "cierre": ""
       },
       "estado": {
         "id": "2",
@@ -161,15 +162,15 @@
       "actividad": {
         "id": "ACT-A3",
         "nombre": "Actividad A3"
-      },
-      "actualizacion": "1498098857"
+      }
     },
     {
       "id": "CASO12",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
         "inicio": "1496088857",
-        "cierre": "1496098857"
+        "actualizacion": "1496198857",
+        "cierre": ""
       },
       "estado": {
         "id": "1",
@@ -202,8 +203,7 @@
       "actividad": {
         "id": "ACT-C2",
         "nombre": "Actividad C2"
-      },
-      "actualizacion": "1496368857"
+      }
     }
   ]
 }
