@@ -5,7 +5,6 @@
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
         "inicio": "1497078000",
-        "actualizacionPrevia": "1497078000",
         "actualizacion": "1497250800",
         "cierre": "1497337200"
       },
@@ -47,7 +46,6 @@
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
         "inicio": "1497250800",
-        "actualizacionPrevia": "1497320200",
         "actualizacion": "1497337200",
         "cierre": null
       },
@@ -89,7 +87,6 @@
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
         "inicio": "1497423600",
-        "actualizacionPrevia": "1497423600",
         "actualizacion": "1497510000",
         "cierre": null
       },
@@ -131,7 +128,6 @@
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
         "inicio": "1497510000",
-        "actualizacionPrevia": null,
         "actualizacion": "1497610000",
         "cierre": null
       },
@@ -173,7 +169,6 @@
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
         "inicio": "1497510000",
-        "actualizacionPrevia": null,
         "actualizacion": null,
         "cierre": null
       },
