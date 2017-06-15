@@ -103,6 +103,18 @@
       ]
     }
   ],
+  "servidores": [
+    {
+      "id": "CLA-SERV-B1",
+      "nombre": "Servidor B1",
+      "tipo": "producción"
+    },
+    {
+      "id": "CLA-SERV-C2",
+      "nombre": "Servidor C2",
+      "tipo": "pruebas"
+    }
+  ],
   "dependencias": [
     {
       "id": "CLA-DEPA",
