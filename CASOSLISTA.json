@@ -4,13 +4,13 @@
       "id": "CASO01",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
-        "inicio": "1496088857",
-        "actualizacion": "1496198857",
-        "cierre": ""
+        "inicio": "1497078000",
+        "actualizacion": "1497250800",
+        "cierre": "1497337200"
       },
       "estado": {
-        "id": "1",
-        "nombre": "pendiente"
+        "id": "3",
+        "nombre": "pre-finalizado"
       },
       "severidad": {
         "id": "S04",
@@ -45,8 +45,8 @@
       "id": "CASO03",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
-        "inicio": "1496088857",
-        "actualizacion": "1496198857",
+        "inicio": "1497250800",
+        "actualizacion": "1497337200",
         "cierre": ""
       },
       "estado": {
@@ -86,13 +86,13 @@
       "id": "CASO06",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
-        "inicio": "1496088857",
-        "actualizacion": "1496198857",
+        "inicio": "1497423600",
+        "actualizacion": "1497510000",
         "cierre": ""
       },
       "estado": {
         "id": "1",
-        "nombre": "pendiente"
+        "nombre": "trabajando"
       },
       "severidad": {
         "id": "S02",
@@ -127,13 +127,13 @@
       "id": "CASO10",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
-        "inicio": "1496088857",
-        "actualizacion": "1496198857",
+        "inicio": "1497510000",
+        "actualizacion": "",
         "cierre": ""
       },
       "estado": {
         "id": "2",
-        "nombre": "trabajando"
+        "nombre": "pendiente"
       },
       "severidad": {
         "id": "S03",
@@ -168,8 +168,8 @@
       "id": "CASO12",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
-        "inicio": "1496088857",
-        "actualizacion": "1496198857",
+        "inicio": "1497510000",
+        "actualizacion": "",
         "cierre": ""
       },
       "estado": {
