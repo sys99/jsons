@@ -2,7 +2,7 @@
   "marcas": [
     {
       "id": "MSN",
-      "nombre": "Microsoft,
+      "nombre": "Microsoft",
       "productos" : [
         {
           "id": "MSN-PROD01",
