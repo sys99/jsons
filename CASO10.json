@@ -4,8 +4,8 @@
   "fecha": {
     "inicio": "1497510000",
     "actualizacionPrevia": "1497510000",
-    "actualizacion": "",
-    "cierre": ""
+    "actualizacion": null,
+    "cierre": null
   },
   "estado": {
     "id": "2",
@@ -44,7 +44,7 @@
     "id": "PRODA1",
     "nombre": "Producto A1"
   },
-  "servidor": "",
+  "servidor": null,
   "severidad": {
     "id": "S03",
     "nombre": "Severidad 3"
