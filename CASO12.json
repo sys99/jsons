@@ -4,14 +4,14 @@
   "fecha": {
     "inicio": "1497510000",
     "actualizacionPrevia": "1497510000",
-    "actualizacion": "",
-    "cierre": ""
+    "actualizacion": null,
+    "cierre": null
   },
   "estado": {
     "id": "1",
     "nombre": "pendiente"
   },
-  "impreso": "",
+  "impreso": null,
   "cliente": {
     "id": "CLC",
     "nombre": "Cliente C"
@@ -44,7 +44,7 @@
     "id": "PRODB1",
     "nombre": "Producto B1"
   },
-  "servidor": "",
+  "servidor": null,
   "severidad": {
     "id": "S01",
     "nombre": "Severidad 1"
