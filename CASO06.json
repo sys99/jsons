@@ -2,8 +2,9 @@
   "id": "CASO06",
   "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
   "fecha": {
-    "inicio": "1496088857",
-    "cierre": "1496090887"
+    "inicio": "1497423600",
+    "actualizacion": "1497510000",
+    "cierre": ""
   },
   "estado": {
     "id": "1",
@@ -52,8 +53,8 @@
     {
       "id": "CASO06-UP01",
       "fecha": {
-        "inicio": "1496088857",
-        "cierre": "1496090887"
+        "inicio": "1497423600",
+        "cierre": "1497510000"
       },
       "tiempo": "2",
       "autor": "Edson Artiga",
