@@ -103,6 +103,18 @@
       ]
     }
   ],
+  "servidores": [
+    {
+      "id": "CLB-SERV-A2",
+      "nombre": "Servidor A2",
+      "tipo": "producción"
+    },
+    {
+      "id": "CLB-SERV-B2",
+      "nombre": "Servidor B2",
+      "tipo": "pruebas"
+    }
+  ],
   "dependencias": [
     {
       "id": "CLB-DEPA",
