@@ -37,18 +37,34 @@
           "nombre": "Caso tipo A3"
         }
       ],
-      "productos": [
+      "marcas": [
         {
-          "id": "PRODA1",
-          "nombre": "Producto A1"
+          "id": "MSN",
+          "nombre": "Microsoft",
+          "productos": [
+            {
+              "id": "MSN-PROD1",
+              "nombre": "Office 365"
+            },
+            {
+              "id": "MSN-PROD2",
+              "nombre": "SQL Server"
+            }
+          ]
         },
         {
-          "id": "PRODA2",
-          "nombre": "Producto A2"
-        },
-        {
-          "id": "PRODA3",
-          "nombre": "Producto A3"
+          "id": "REDHAT",
+          "nombre": "RedHat",
+          "productos": [
+            {
+              "id": "REDHAT-PROD1",
+              "nombre": "JBoss EAP 6.4"
+            },
+            {
+              "id": "REDHAT-PROD2",
+              "nombre": "RedHat Linux Enterprise"
+            }
+          ]
         }
       ]
     },
@@ -87,18 +103,30 @@
           "nombre": "Caso tipo C3"
         }
       ],
-      "productos": [
+      "marcas": [
         {
-          "id": "PRODB1",
-          "nombre": "Producto B1"
+          "id": "LIFERAY",
+          "nombre": "Liferay",
+          "productos": [
+            {
+              "id": "LIFERAY-PROD1",
+              "nombre": "Liferay DXP"
+            }
+          ]
         },
         {
-          "id": "PRODB2",
-          "nombre": "Producto B2"
-        },
-        {
-          "id": "PRODB3",
-          "nombre": "Producto B3"
+          "id": "REDHAT",
+          "nombre": "RedHat",
+          "productos": [
+            {
+              "id": "REDHAT-PROD1",
+              "nombre": "JBoss EAP 6.4"
+            },
+            {
+              "id": "REDHAT-PROD2",
+              "nombre": "RedHat Linux Enterprise"
+            }
+          ]
         }
       ]
     }
