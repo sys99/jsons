@@ -49,7 +49,7 @@
         "inicio": "1497250800",
         "actualizacionPrevia": "1497320200",
         "actualizacion": "1497337200",
-        "cierre": ""
+        "cierre": null
       },
       "estado": {
         "id": "2",
@@ -91,7 +91,7 @@
         "inicio": "1497423600",
         "actualizacionPrevia": "1497423600",
         "actualizacion": "1497510000",
-        "cierre": ""
+        "cierre": null
       },
       "estado": {
         "id": "1",
@@ -132,8 +132,8 @@
       "fecha": {
         "inicio": "1497510000",
         "actualizacionPrevia": "1497510000",
-        "actualizacion": "",
-        "cierre": ""
+        "actualizacion": null,
+        "cierre": null
       },
       "estado": {
         "id": "2",
@@ -174,8 +174,8 @@
       "fecha": {
         "inicio": "1497510000",
         "actualizacionPrevia": "1497510000",
-        "actualizacion": "",
-        "cierre": ""
+        "actualizacion": null,
+        "cierre": null
       },
       "estado": {
         "id": "1",
