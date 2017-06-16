@@ -1,0 +1,55 @@
+{
+  "id": "CLE",
+  "nombre": "Cliente E",
+  "servicios": [
+    {
+      "id": "CLE-CONT01",
+      "nombre": "Contrato 1",
+      "tipo": {
+        "id": "CONT",
+        "nombre": "Contrato"
+      },
+      "actividades": [
+        {
+          "id": "ACT-A1",
+          "nombre": "Actividad A1"
+        }
+      ],
+      "tiposCaso": [
+        {
+          "id": "CASO-D1",
+          "nombre": "Caso tipo D1"
+        }
+      ],
+      "marcas": [
+        {
+          "id": "MSN",
+          "nombre": "Microsoft",
+          "productos": [
+            {
+              "id": "PROD1",
+              "nombre": "Office 365"
+            },
+            {
+              "id": "PROD2",
+              "nombre": "SQL Server"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "servidores": "",
+  "dependencias": [
+    {
+      "id": "CLE-DEPA",
+      "nombre": "Dependencia A",
+      "solicitantes": [
+        {
+          "id": "CLE-DEPA-SA",
+          "nombre": "Solicitante A"
+        }
+      ]
+    }
+  ]
+}
