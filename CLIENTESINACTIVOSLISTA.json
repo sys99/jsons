@@ -1,0 +1,12 @@
+{
+  "clientesInactivos": [
+    {
+      "id": "CLE",
+      "nombre": "Cliente E"
+    },
+    {
+      "id": "CLF",
+      "nombre": "Cliente F"
+    }
+  ]
+}
