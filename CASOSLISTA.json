@@ -83,6 +83,47 @@
       }
     },
     {
+      "id": "CASO04",
+      "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
+      "fecha": {
+        "inicio": "1496862000",
+        "actualizacion": "1497639600",
+        "cierre": null
+      },
+      "estado": {
+        "id": "2",
+        "nombre": "trabajando"
+      },
+      "severidad": {
+        "id": "S04",
+        "nombre": "Severidad 4"
+      },
+      "cliente": {
+        "id": "CLE",
+        "nombre": "Cliente E"
+      },
+      "solicitante": {
+        "id": "CLE-SA",
+        "nombre": "Solicitante A"
+      },
+      "ingeniero": {
+        "id": "INGA",
+        "nombre": "Edson Artiga"
+      },
+      "producto": {
+        "id": "PRODA2",
+        "nombre": "Producto A2"
+      },
+      "tipoCaso": {
+        "id": "CASO-A1",
+        "nombre": "Caso tipo A1"
+      },
+      "actividad": {
+        "id": "ACT-A1",
+        "nombre": "Actividad A1"
+      }
+    },
+    {
       "id": "CASO06",
       "nombre": "Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor.",
       "fecha": {
