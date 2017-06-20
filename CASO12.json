@@ -21,7 +21,8 @@
   },
   "solicitante": {
     "id": "CLC-DEPA-SC",
-    "nombre": "Solicitante C"
+    "nombre": "Solicitante C",
+    "correo": "solc@correo.com"
   },
   "servicio": {
     "id": "CLC-CONT01",
