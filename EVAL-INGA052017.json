@@ -38,5 +38,23 @@
       "nombre": "tiempo de solución",
       "nota": "60"
     }
+  ],
+  "estados": [
+    {
+      "nombre": "pendientes",
+      "cantidad": "4"
+    },
+    {
+      "nombre": "trabajando",
+      "cantidad": "5"
+    },
+    {
+      "nombre": "pre-finalizados",
+      "cantidad": "3"
+    },
+    {
+      "nombre": "finalizados",
+      "cantidad": "8"
+    }
   ]
 }
