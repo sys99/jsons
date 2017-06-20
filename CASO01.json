@@ -21,7 +21,8 @@
   },
   "solicitante": {
     "id": "CLB-DEPA-SB",
-    "nombre": "Solicitante B"
+    "nombre": "Solicitante B",
+    "correo": "solb@correo.com"
   },
   "servicio": {
     "id": "CLB-CONT01",
