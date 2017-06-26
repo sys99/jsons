@@ -65,6 +65,8 @@
       "autor": "Ricardo Jaimes",
       "descripcion": "UP01 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
       "impreso": null,
+      "firma": null,
+      "firmante": null,
       "adjuntos": [
         {
           "nombre": "Archivo de pruebas 1",
@@ -86,6 +88,8 @@
       "autor": "Ricardo Jaimes",
       "descripcion": "UP02 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.",
       "impreso": "CASO03-UP02.pdf",
+      "firma": "firma.png",
+      "firmante": "Solicitante A",
       "adjuntos": [
         {
           "nombre": "Archivo de pruebas 3",
