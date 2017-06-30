@@ -1,0 +1,59 @@
+{
+  "usuario": [
+    {
+      "nombres": "Luis Roberto",
+      "apellidos": "Flores Flores",
+      "nombreCorto": "Luis Flores",
+      "cargo": "Arquitecto portales",
+      "contratado": "1424671200",
+      "correo": "roberto.flores@datumredsoft.com",
+      "telefono": "22099000",
+      "extension": "9104",
+      "celular": "78743375"
+    }
+  ],
+  "certificaciones": [
+    {
+      "id": "CERT01",
+      "nombre": "Certificación A"
+    },
+    {
+      "id": "CERT02",
+      "nombre": "Certificación B"
+    },
+    {
+      "id": "CERT03",
+      "nombre": "Certificación C"
+    },
+    {
+      "id": "CERT04",
+      "nombre": "Certificación D"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "id": "REC01",
+      "nombre": "Reconocimiento 1",
+      "icono": "icono1.png",
+      "descripcion": "Descripción de reconocimiento 1"
+    },
+    {
+      "id": "REC02",
+      "nombre": "Reconocimiento 2",
+      "icono": "icono2.png",
+      "descripcion": "Descripción de reconocimiento 2"
+    },
+    {
+      "id": "REC03",
+      "nombre": "Reconocimiento 3",
+      "icono": "icono3.png",
+      "descripcion": "Descripción de reconocimiento 3"
+    },
+    {
+      "id": "REC04",
+      "nombre": "Reconocimiento 4",
+      "icono": "icono4.png",
+      "descripcion": "Descripción de reconocimiento 4"
+    }
+  ]
+}
