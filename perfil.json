@@ -12,6 +12,11 @@
       "celular": "78743375"
     }
   ],
+  "casos": {
+    "completados": "25",
+    "trabajando": "3",
+    "pendientes": "2"
+  },
   "certificaciones": [
     {
       "id": "CERT01",
