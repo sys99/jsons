@@ -1,0 +1,24 @@
+{
+  "servicios": [
+    {
+      "id": "CLA-PRO01",
+      "tipo": "PROY",
+      "nombre": "Proyecto 1"
+    },
+    {
+      "id": "CLA-CONT02",
+      "tipo": "CONT",
+      "nombre": "Contrato 2"
+    },
+    {
+      "id": "CLA-CONT03",
+      "tipo": "CONT",
+      "nombre": "Contrato 2"
+    },
+    {
+      "id": "CLA-PRO03",
+      "tipo": "PROY",
+      "nombre": "Proyecto 3"
+    }
+  ]
+}
