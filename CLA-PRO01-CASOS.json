@@ -5,6 +5,15 @@
     "id": "PROY",
     "nombre": "Proyecto"
   },
+  "cantidadCasos": {
+    "totales": "null",
+    "completados": "10",
+    "proceso": "3"
+  },
+  "horas": {
+    "totales": "50",
+    "consumo": "32"
+  },
   "casos": [
     {
       "id": "CASO01",
