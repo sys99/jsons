@@ -1,0 +1,76 @@
+{
+  "id": "CLA-PRO01",
+  "nombre": "Proyecto 1",
+  "tipo": {
+    "id": "PROY",
+    "nombre": "Proyecto"
+  },
+  "casos": [
+    {
+      "id": "CASO01",
+      "nombre": "Caso de soporte 1",
+      "fecha": {
+        "inicio": "1497078000",
+        "actualizacion": "1497250800",
+        "cierre": "1497337200"
+      },
+      "estado": {
+        "id": "3",
+        "nombre": "pre-finalizado"
+      },
+      "severidad": {
+        "id": "S04",
+        "nombre": "Severidad 4"
+      },
+      "solicitante": {
+        "id": "CLA-SA",
+        "nombre": "Solicitante A"
+      },
+      "ingeniero": {
+        "id": "INGA",
+        "nombre": "Edson Artiga"
+      },
+      "producto": {
+        "id": "PRODA2",
+        "nombre": "Producto A2"
+      },
+      "actividad": {
+        "id": "ACT-A2",
+        "nombre": "Actividad 2"
+      }
+    },
+    {
+      "id": "CASO02",
+      "nombre": "Caso de soporte 3",
+      "fecha": {
+        "inicio": "1497098000",
+        "actualizacion": "1497350800",
+        "cierre": "null"
+      },
+      "estado": {
+        "id": "3",
+        "nombre": "pre-finalizado"
+      },
+      "severidad": {
+        "id": "S04",
+        "nombre": "Severidad 4"
+      },
+      "solicitante": {
+        "id": "CLA-SA",
+        "nombre": "Solicitante A"
+      },
+      "ingeniero": {
+        "id": "INGA",
+        "nombre": "Edson Artiga"
+      },
+      "producto": {
+        "id": "PRODA2",
+        "nombre": "Producto A2"
+      },
+      "actividad": {
+        "id": "ACT-A2",
+        "nombre": "Actividad 2"
+      }
+    }
+  ]
+}
