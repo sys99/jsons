@@ -5,6 +5,15 @@
     "id": "CONT",
     "nombre": "Contrato"
   },
+  "cantidadCasos": {
+    "totales": "25",
+    "completados": "14",
+    "proceso": "6"
+  },
+  "horas": {
+    "totales": null,
+    "consumo": "26"
+  },
   "casos": [
     {
       "id": "CASO06",
