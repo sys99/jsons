@@ -21,7 +21,7 @@
       "fecha": {
         "inicio": "1497078000",
         "actualizacion": "1497250800",
-        "cierre": "1497337200"
+        "cierre": null
       },
       "estado": {
         "id": "2",
@@ -58,7 +58,7 @@
       "fecha": {
         "inicio": "1497098000",
         "actualizacion": "1497350800",
-        "cierre": "null"
+        "cierre": "1497357800"
       },
       "estado": {
         "id": "3",
