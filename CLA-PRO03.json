@@ -1,0 +1,85 @@
+{
+  "id": "CLA-PRO03",
+  "nombre": "Proyecto 3",
+  "tipo": {
+    "id": "PROY",
+    "nombre": "Proyecto"
+  },
+  "cantidadCasos": {
+    "totales": "25",
+    "completados": "14",
+    "proceso": "6"
+  },
+  "horas": {
+    "totales": "50",
+    "consumo": "26"
+  },
+  "casos": [
+    {
+      "id": "CASO06",
+      "nombre": "Caso de soporte 6",
+      "fecha": {
+        "inicio": "1497078000",
+        "actualizacion": "1497250800",
+        "cierre": "1497337200"
+      },
+      "estado": {
+        "id": "3",
+        "nombre": "pre-finalizado"
+      },
+      "severidad": {
+        "id": "S03",
+        "nombre": "Severidad 3"
+      },
+      "solicitante": {
+        "id": "CLA-SC",
+        "nombre": "Solicitante C"
+      },
+      "ingeniero": {
+        "id": "INGA",
+        "nombre": "Edson Artiga"
+      },
+      "producto": {
+        "id": "PRODA2",
+        "nombre": "Producto A2"
+      },
+      "actividad": {
+        "id": "ACT-A2",
+        "nombre": "Actividad 2"
+      }
+    },
+    {
+      "id": "CASO10",
+      "nombre": "Caso de soporte 10",
+      "fecha": {
+        "inicio": "1497098000",
+        "actualizacion": "1497350800",
+        "cierre": "null"
+      },
+      "estado": {
+        "id": "3",
+        "nombre": "pre-finalizado"
+      },
+      "severidad": {
+        "id": "S01",
+        "nombre": "Severidad 1"
+      },
+      "solicitante": {
+        "id": "CLA-SB",
+        "nombre": "Solicitante B"
+      },
+      "ingeniero": {
+        "id": "INGA",
+        "nombre": "Edson Artiga"
+      },
+      "producto": {
+        "id": "PRODA2",
+        "nombre": "Producto A2"
+      },
+      "actividad": {
+        "id": "ACT-A2",
+        "nombre": "Actividad 2"
+      }
+    }
+  ]
+}
