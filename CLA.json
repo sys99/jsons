@@ -129,6 +129,68 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CLA-PRO03",
+      "nombre": "Proyecto 3",
+      "tipo": {
+        "id": "PROY",
+        "nombre": "Proyecto"
+      },
+      "actividades": [
+        {
+          "id": "ACT-B1",
+          "nombre": "Actividad B1"
+        },
+        {
+          "id": "ACT-B2",
+          "nombre": "Actividad B2"
+        },
+        {
+          "id": "ACT-B3",
+          "nombre": "Actividad B3"
+        }
+      ],
+      "tiposCaso": [
+        {
+          "id": "CASO-C1",
+          "nombre": "Caso tipo C1"
+        },
+        {
+          "id": "CASO-C2",
+          "nombre": "Caso tipo C2"
+        },
+        {
+          "id": "CASO-C3",
+          "nombre": "Caso tipo C3"
+        }
+      ],
+      "marcas": [
+        {
+          "id": "LIFERAY",
+          "nombre": "Liferay",
+          "productos": [
+            {
+              "id": "LIFERAY-PROD1",
+              "nombre": "Liferay DXP"
+            }
+          ]
+        },
+        {
+          "id": "REDHAT",
+          "nombre": "RedHat",
+          "productos": [
+            {
+              "id": "REDHAT-PROD1",
+              "nombre": "JBoss EAP 6.4"
+            },
+            {
+              "id": "REDHAT-PROD2",
+              "nombre": "RedHat Linux Enterprise"
+            }
+          ]
+        }
+      ]
     }
   ],
   "servidores": [
