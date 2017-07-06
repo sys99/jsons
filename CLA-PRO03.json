@@ -58,11 +58,11 @@
       "fecha": {
         "inicio": "1497098000",
         "actualizacion": "1497350800",
-        "cierre": "null"
+        "cierre": null
       },
       "estado": {
-        "id": "3",
-        "nombre": "pre-finalizado"
+        "id": "2",
+        "nombre": "trabajando"
       },
       "severidad": {
         "id": "S01",
