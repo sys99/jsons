@@ -31,6 +31,10 @@
         "id": "S03",
         "nombre": "Severidad 3"
       },
+      "cliente": {
+        "id": "CLA",
+        "nombre": "Cliente A"
+      },
       "solicitante": {
         "id": "CLA-SC",
         "nombre": "Solicitante C"
@@ -63,6 +67,10 @@
       "severidad": {
         "id": "S01",
         "nombre": "Severidad 1"
+      },
+      "cliente": {
+        "id": "CLA",
+        "nombre": "Cliente A"
       },
       "solicitante": {
         "id": "CLA-SB",
