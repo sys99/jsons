@@ -7,6 +7,33 @@
     "id": "PROY",
     "nombre": "Proyecto"
   },
+  "documentos" : [
+    {
+      "id": "CLA-PRO03-D1",
+      "nombre": "Requerimientos del cliente",
+      "archivo": "cla-pro03-d1.pdf"
+    },
+    {
+      "id": "CLA-PRO03-D2",
+      "nombre": "Términos de cancelación del contrato",
+      "archivo": "cla-pro03-d2.pdf"
+    },
+    {
+      "id": "CLA-PRO03-D3",
+      "nombre": "Cotizaciones de licencias y servicios",
+      "archivo": "cla-pro03-d3.pdf"
+    },
+    {
+      "id": "CLA-PRO03-D4",
+      "nombre": "Plan de trabajo del proyecto",
+      "archivo": "cla-pro03-d4.pdf"
+    },
+    {
+      "id": "CLA-PRO03-D5",
+      "nombre": "Acta reunión: Definición de términos del proyecto",
+      "archivo": "cla-pro03-d5.pdf"
+    }
+  ],
   "cantidadCasos": {
     "totales": "25",
     "completados": "14",
