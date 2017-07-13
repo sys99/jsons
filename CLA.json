@@ -5,6 +5,8 @@
     {
       "id": "CLA-PRO01",
       "nombre": "Proyecto 1",
+      "inicio": "2016-11-23",
+      "finalizacion": "2017-11-23",
       "tipo": {
         "id": "PROY",
         "nombre": "Proyecto"
@@ -71,6 +73,8 @@
     {
       "id": "CLA-CONT02",
       "nombre": "Contrato 2",
+      "inicio": "2017-08-15",
+      "finalizacion": "2018-08-23",
       "tipo": {
         "id": "CONT",
         "nombre": "Contrato"
