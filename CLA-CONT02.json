@@ -7,6 +7,23 @@
     "id": "CONT",
     "nombre": "Contrato"
   },
+  "documentos" : [
+    {
+      "id": "CLA-CONT02-D1",
+      "nombre": "Requerimientos del cliente",
+      "archivo": "cla-cont02-d1.pdf"
+    },
+    {
+      "id": "CLA-CONT02-D2",
+      "nombre": "Términos de cancelación del contrato",
+      "archivo": "cla-cont02-d2.pdf"
+    },
+    {
+      "id": "CLA-CONT02-D3",
+      "nombre": "Carta de aprobación del servicio",
+      "archivo": "cla-cont02-d3.pdf"
+    }
+  ],
   "cantidadCasos": {
     "totales": "25",
     "completados": "14",
