@@ -7,6 +7,28 @@
     "id": "PROY",
     "nombre": "Proyecto"
   },
+  "documentos" : [
+    {
+      "id": "CLA-PRO01-D1",
+      "nombre": "Requerimientos del cliente",
+      "archivo": "cla-pro01-d1.pdf"
+    },
+    {
+      "id": "CLA-PRO01-D2",
+      "nombre": "Términos de cancelación del contrato",
+      "archivo": "cla-pro01-d2.pdf"
+    },
+    {
+      "id": "CLA-PRO01-D3",
+      "nombre": "Plan de trabajo del proyecto",
+      "archivo": "cla-pro01-d3.pdf"
+    },
+    {
+      "id": "CLA-PRO01-D4",
+      "nombre": "Reporte de avances a junio 2017",
+      "archivo": "cla-pro01-d4.pdf"
+    }
+  ],
   "cantidadCasos": {
     "totales": null,
     "completados": "10",
