@@ -137,6 +137,8 @@
     {
       "id": "CLA-PRO03",
       "nombre": "Proyecto 3",
+      "inicio": "2017-05-23",
+      "finalizacion": "2017-11-23",
       "tipo": {
         "id": "PROY",
         "nombre": "Proyecto"
