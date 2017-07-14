@@ -8,10 +8,10 @@
     "nombre": "Proyecto"
   },
   "contactos": {
-    "nombre": "Ejecutivo de cuenta 1";
-    "correo": "e1@datumredsoft.com";
-    "telefono": "2209-9000";
-    "celular": "7878-5656";
+    "nombre": "Ejecutivo de cuenta 1",
+    "correo": "e1@datumredsoft.com",
+    "telefono": "2209-9000",
+    "celular": "7878-5656",
   },
   "documentos" : [
     {
