@@ -1,40 +1,36 @@
 {
   "tiposCaso": [
     {
-      "id": "CASO-A1",
-      "nombre": "Caso tipo A1"
+      "id": "TIP-1",
+      "nombre": "SATI"
     },
     {
-      "id": "CASO-A2",
-      "nombre": "Caso tipo A2"
+      "id": "TIP-2",
+      "nombre": "SATOS"
     },
     {
-      "id": "CASO-A3",
-      "nombre": "Caso tipo A3"
+      "id": "TIP-3",
+      "nombre": "SSOL"
     },
     {
-      "id": "CASO-B1",
-      "nombre": "Caso tipo B1"
+      "id": "TIP-4",
+      "nombre": "SSO"
     },
     {
-      "id": "CASO-B2",
-      "nombre": "Caso tipo B2"
+      "id": "TIP-5",
+      "nombre": "Curso"
     },
     {
-      "id": "CASO-B3",
-      "nombre": "Caso tipo B3"
+      "id": "TIP-6",
+      "nombre": "Proyecto"
     },
     {
-      "id": "CASO-C1",
-      "nombre": "Caso tipo C1"
+      "id": "TIP-7",
+      "nombre": "Administrativo"
     },
     {
-      "id": "CASO-C2",
-      "nombre": "Caso tipo C2"
-    },
-    {
-      "id": "CASO-C3",
-      "nombre": "Caso tipo C3"
+      "id": "TIP-8",
+      "nombre": "Interno"
     }
   ]
 }
