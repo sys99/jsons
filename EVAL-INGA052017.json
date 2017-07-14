@@ -1,10 +1,6 @@
 {
   "mes": "5",
   "año": "2017",
-  "ingeniero": {
-    "id": "INGA",
-    "nombre": "Edson Artiga"
-  },
   "calificaciones": [
     {
       "nombre": "seguimiento",
