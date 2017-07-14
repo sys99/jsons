@@ -1,9 +1,5 @@
 {
   "año": "2017",
-  "ingeniero": {
-    "id": "INGA",
-    "nombre": "Luis Flores"
-  },
   "detalleAnual": [
     {
       "mes": "1",
