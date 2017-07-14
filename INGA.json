@@ -4,6 +4,7 @@
   "apellidos": "Flores",
   "cargo": "Diseñador web",
   "contratado": "2015-02-23",
+  "foto": "https://dummyimage.com/400x400/f90/000",
   "casos": {
     "completados": "45",
     "trabajando": "4",
