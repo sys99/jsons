@@ -1,0 +1,48 @@
+{
+  "id": "INGA",
+  "nombres": "Luis Roberto",
+  "apellidos": "Flores",
+  "cargo": "Diseñador web",
+  "contratado": "2015-02-23",
+  "casos": {
+    "completados": "45",
+    "trabajando": "4",
+    "pendientes": "2"
+  },
+  "certificaciones": [
+    {
+      "id": "CERT-1",
+      "nombre": "Certificación 1"
+    },
+    {
+      "id": "CERT-2",
+      "nombre": "Certificación 2"
+    },
+    {
+      "id": "CERT-3",
+      "nombre": "Certificación 3"
+    }
+  ],
+  "reconocimientos": [
+    {
+      "id": "REC-1",
+      "nombre": "Reconocimiento 1",
+      "descripcion": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis."
+    },
+    {
+      "id": "REC-2",
+      "nombre": "Reconocimiento 2",
+      "descripcion": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis."
+    },
+    {
+      "id": "REC-3",
+      "nombre": "Reconocimiento 3",
+      "descripcion": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis."
+    },
+    {
+      "id": "REC-4",
+      "nombre": "Reconocimiento 4",
+      "descripcion": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis."
+    }
+  ]
+}
