@@ -1,6 +1,6 @@
 {
-  "id": "CLA",
-  "nombre": "Cliente A",
+  "id": "CLT-1",
+  "nombre": "Ministerio de Hacienda",
   "servicios": [
     {
       "id": "CLA-PRO01",
