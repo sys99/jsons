@@ -1,20 +1,32 @@
 {
   "clientes": [
     {
-      "id": "CLA",
-      "nombre": "Cliente A"
+      "id": "CLT-1",
+      "nombre": "Ministerio de Hacienda"
     },
     {
-      "id": "CLB",
-      "nombre": "Cliente B"
+      "id": "CLT-2",
+      "nombre": "Claro El Salvador"
     },
     {
-      "id": "CLC",
-      "nombre": "Cliente C"
+      "id": "CLT-3",
+      "nombre": "AFP Confía"
     },
     {
-      "id": "CLD",
-      "nombre": "Cliente D"
+      "id": "CLT-4",
+      "nombre": "Avianca"
+    },
+        {
+      "id": "CLT-5",
+      "nombre": "FEDECACES"
+    },
+    {
+      "id": "CLT-6",
+      "nombre": "Policia Nacional Civil"
+    },
+    {
+      "id": "CLT-7",
+      "nombre": "DATUM REDSOFT"
     }
   ]
 }
