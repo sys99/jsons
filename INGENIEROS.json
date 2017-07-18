@@ -3,77 +3,77 @@
     {
       "id": "USR-72",
       "nombre": "Edson Artiga",
-      "foto": "USR-72.jpg",
+      "foto": "https://dummyimage.com/400x400/340/000",
       "cargo": "Gerente Middleware",
       "activo": true
     },
     {
       "id": "USR-73",
       "nombre": "Ricardo Jaimes",
-      "foto": "USR-73.jpg",
+      "foto": "https://dummyimage.com/400x400/f90/000",
       "cargo": "Gerente Base de Datos",
       "activo": true
     },
     {
       "id": "USR-74",
       "nombre": "Mikel Escobar",
-      "foto": "USR-74.jpg",
+      "foto": "https://dummyimage.com/400x400/abb/000",
       "cargo": "Ingeniero Soporte",
       "activo": true
     },
     {
       "id": "USR-75",
       "nombre": "José Cardona",
-      "foto": "USR-75.jpg",
+      "foto": "https://dummyimage.com/400x400/9f0/000",
       "cargo": "Ingeniero Soporte",
       "activo": true
     },
     {
       "id": "USR-76",
       "nombre": "Delwin Solano",
-      "foto": "USR-76.jpg",
+      "foto": "https://dummyimage.com/400x400/0f9/000",
       "cargo": "Ingeniero Soporte",
       "activo": true
     },
     {
       "id": "USR-77",
       "nombre": "Julio Alvarado",
-      "foto": "USR-77.jpg",
+      "foto": "https://dummyimage.com/400x400/d7a/000",
       "cargo": "Ingeniero Soporte",
       "activo": true
     },
     {
       "id": "USR-78",
       "nombre": "Luis Flores",
-      "foto": "USR-78.jpg",
+      "foto": "https://dummyimage.com/400x400/000/fff",
       "cargo": "Ingeniero Soporte",
       "activo": true
     },
     {
       "id": "USR-79",
       "nombre": "Ricardo Sosa",
-      "foto": "USR-79.jpg",
+      "foto": "https://dummyimage.com/400x400/da1/000",
       "cargo": "Ingeniero Soporte",
       "activo": true
     },
     {
       "id": "USR-80",
       "nombre": "Oscar López",
-      "foto": "USR-80.jpg",
+      "foto": "https://dummyimage.com/400x400/2bd/000",
       "cargo": "Ingeniero Soporte",
       "activo": true
     },
     {
       "id": "USR-81",
       "nombre": "Yonathan Cedillos",
-      "foto": "USR-81.jpg",
+      "foto": "https://dummyimage.com/400x400/c3d/000",
       "cargo": "Ingeniero Soporte",
       "activo": true
     },
     {
       "id": "USR-82",
       "nombre": "Cristhian Martínez",
-      "foto": "USR-82.jpg",
+      "foto": "https://dummyimage.com/400x400/7ad/000",
       "cargo": "Ingeniero Soporte",
       "activo": true
     }
