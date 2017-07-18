@@ -2,31 +2,38 @@
   "clientes": [
     {
       "id": "CLT-1",
-      "nombre": "Ministerio de Hacienda"
+      "nombre": "Ministerio de Hacienda",
+      "activo": true
     },
     {
       "id": "CLT-2",
-      "nombre": "Claro El Salvador"
+      "nombre": "Claro El Salvador",
+      "activo": true
     },
     {
       "id": "CLT-3",
-      "nombre": "AFP Confía"
+      "nombre": "AFP Confía",
+      "activo": true
     },
     {
       "id": "CLT-4",
-      "nombre": "Avianca"
+      "nombre": "Avianca",
+      "activo": true
     },
         {
       "id": "CLT-5",
-      "nombre": "FEDECACES"
+      "nombre": "FEDECACES",
+      "activo": true
     },
     {
       "id": "CLT-6",
-      "nombre": "Policia Nacional Civil"
+      "nombre": "Policia Nacional Civil",
+      "activo": false
     },
     {
       "id": "CLT-7",
-      "nombre": "DATUM REDSOFT"
+      "nombre": "DATUM REDSOFT",
+      "activo": true
     }
   ]
 }
