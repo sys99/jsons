@@ -5,6 +5,7 @@
       "nombre": "Edson Artiga",
       "foto": "https://dummyimage.com/400x400/340/000",
       "cargo": "Gerente Middleware",
+      "area": "Middleware",
       "activo": true
     },
     {
@@ -12,6 +13,7 @@
       "nombre": "Ricardo Jaimes",
       "foto": "https://dummyimage.com/400x400/f90/000",
       "cargo": "Gerente Base de Datos",
+      "area": "Base de datos",
       "activo": true
     },
     {
@@ -19,6 +21,7 @@
       "nombre": "Mikel Escobar",
       "foto": "https://dummyimage.com/400x400/abb/000",
       "cargo": "Ingeniero Soporte",
+      "area": "Middleware",
       "activo": true
     },
     {
@@ -32,7 +35,7 @@
       "id": "USR-76",
       "nombre": "Delwin Solano",
       "foto": "https://dummyimage.com/400x400/0f9/000",
-      "cargo": "Ingeniero Soporte",
+      "cargo": "Base de datos",
       "activo": true
     },
     {
@@ -40,6 +43,7 @@
       "nombre": "Julio Alvarado",
       "foto": "https://dummyimage.com/400x400/d7a/000",
       "cargo": "Ingeniero Soporte",
+      "area": "Middleware",
       "activo": true
     },
     {
@@ -47,6 +51,7 @@
       "nombre": "Luis Flores",
       "foto": "https://dummyimage.com/400x400/000/fff",
       "cargo": "Ingeniero Soporte",
+      "area": "Middleware",
       "activo": true
     },
     {
@@ -54,6 +59,7 @@
       "nombre": "Ricardo Sosa",
       "foto": "https://dummyimage.com/400x400/da1/000",
       "cargo": "Ingeniero Soporte",
+      "area": "Middleware",
       "activo": true
     },
     {
@@ -61,6 +67,7 @@
       "nombre": "Oscar López",
       "foto": "https://dummyimage.com/400x400/2bd/000",
       "cargo": "Ingeniero Soporte",
+      "area": "Middleware",
       "activo": true
     },
     {
@@ -68,6 +75,7 @@
       "nombre": "Yonathan Cedillos",
       "foto": "https://dummyimage.com/400x400/c3d/000",
       "cargo": "Ingeniero Soporte",
+      "area": "Middleware",
       "activo": true
     },
     {
@@ -75,6 +83,7 @@
       "nombre": "Cristhian Martínez",
       "foto": "https://dummyimage.com/400x400/7ad/000",
       "cargo": "Ingeniero Soporte",
+      "area": "Middleware",
       "activo": true
     }
   ]
