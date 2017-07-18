@@ -29,13 +29,15 @@
       "nombre": "José Cardona",
       "foto": "https://dummyimage.com/400x400/9f0/000",
       "cargo": "Ingeniero Soporte",
+      "area": "Middleware",
       "activo": true
     },
     {
       "id": "USR-76",
       "nombre": "Delwin Solano",
       "foto": "https://dummyimage.com/400x400/0f9/000",
-      "cargo": "Base de datos",
+      "cargo": "Ingeniero Soporte",
+      "area": "Base de datos",
       "activo": true
     },
     {
