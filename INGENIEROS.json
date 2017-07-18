@@ -2,47 +2,80 @@
   "ingenieros": [
     {
       "id": "USR-72",
-      "nombre": "Edson Artiga"
+      "nombre": "Edson Artiga",
+      "foto": "USR-72.jpg",
+      "cargo": "Gerente Middleware",
+      "activo": true
     },
     {
       "id": "USR-73",
-      "nombre": "Ricardo Jaimes"
+      "nombre": "Ricardo Jaimes",
+      "foto": "USR-73.jpg",
+      "cargo": "Gerente Base de Datos",
+      "activo": true
     },
     {
       "id": "USR-74",
-      "nombre": "Mikel Escobar"
+      "nombre": "Mikel Escobar",
+      "foto": "USR-74.jpg",
+      "cargo": "Ingeniero Soporte",
+      "activo": true
     },
     {
       "id": "USR-75",
-      "nombre": "José Cardona"
+      "nombre": "José Cardona",
+      "foto": "USR-75.jpg",
+      "cargo": "Ingeniero Soporte",
+      "activo": true
     },
     {
       "id": "USR-76",
-      "nombre": "Delwin Solano"
+      "nombre": "Delwin Solano",
+      "foto": "USR-76.jpg",
+      "cargo": "Ingeniero Soporte",
+      "activo": true
     },
     {
       "id": "USR-77",
-      "nombre": "Julio Alvarado"
+      "nombre": "Julio Alvarado",
+      "foto": "USR-77.jpg",
+      "cargo": "Ingeniero Soporte",
+      "activo": true
     },
     {
       "id": "USR-78",
-      "nombre": "Luis Flores"
+      "nombre": "Luis Flores",
+      "foto": "USR-78.jpg",
+      "cargo": "Ingeniero Soporte",
+      "activo": true
     },
     {
       "id": "USR-79",
-      "nombre": "Ricardo Sosa"
+      "nombre": "Ricardo Sosa",
+      "foto": "USR-79.jpg",
+      "cargo": "Ingeniero Soporte",
+      "activo": true
     },
     {
       "id": "USR-80",
-      "nombre": "Oscar López"
+      "nombre": "Oscar López",
+      "foto": "USR-80.jpg",
+      "cargo": "Ingeniero Soporte",
+      "activo": true
     },
     {
       "id": "USR-81",
-      "nombre": "Yonathan Cedillos"
+      "nombre": "Yonathan Cedillos",
+      "foto": "USR-81.jpg",
+      "cargo": "Ingeniero Soporte",
+      "activo": true
     },
     {
       "id": "USR-82",
-      "nombre": "Cristhian Martínez"
+      "nombre": "Cristhian Martínez",
+      "foto": "USR-82.jpg",
+      "cargo": "Ingeniero Soporte",
+      "activo": true
     }
   ]
 }
