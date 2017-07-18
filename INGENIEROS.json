@@ -1,12 +1,48 @@
 {
   "ingenieros": [
     {
-      "id": "INGA",
+      "id": "USR-72",
       "nombre": "Edson Artiga"
     },
     {
-      "id": "INGB",
+      "id": "USR-73",
       "nombre": "Ricardo Jaimes"
+    },
+    {
+      "id": "USR-74",
+      "nombre": "Mikel Escobar"
+    },
+    {
+      "id": "USR-75",
+      "nombre": "José Cardona"
+    },
+    {
+      "id": "USR-76",
+      "nombre": "Delwin Solano"
+    },
+    {
+      "id": "USR-77",
+      "nombre": "Julio Alvarado"
+    },
+    {
+      "id": "USR-78",
+      "nombre": "Luis Flores"
+    },
+    {
+      "id": "USR-79",
+      "nombre": "Ricardo Sosa"
+    },
+    {
+      "id": "USR-80",
+      "nombre": "Oscar López"
+    },
+    {
+      "id": "USR-81",
+      "nombre": "Yonathan Cedillos"
+    },
+    {
+      "id": "USR-82",
+      "nombre": "Cristhian Martínez"
     }
   ]
 }
