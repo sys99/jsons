@@ -2,7 +2,7 @@
   "año": "2017",
   "detalleAnual": [
     {
-      "mes": "1",
+      "mes": "Enero",
       "nota": "98",
       "calificaciones": [
         {
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "mes": "2",
+      "mes": "Febrero",
       "nota": "80",
       "calificaciones": [
         {
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "mes": "3",
+      "mes": "Marzo",
       "nota": "95",
       "calificaciones": [
         {
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "mes": "4",
+      "mes": "Abril",
       "nota": "99",
       "calificaciones": [
         {
