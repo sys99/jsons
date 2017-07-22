@@ -1,19 +1,19 @@
 {
   "severidades": [
     {
-      "id": "S01",
+      "id": "SER-1",
       "nombre": "Severidad 1"
     },
     {
-      "id": "S02",
+      "id": "SER-2",
       "nombre": "Severidad 2"
     },
     {
-      "id": "S03",
+      "id": "SER-3",
       "nombre": "Severidad 3"
     },
     {
-      "id": "S04",
+      "id": "SER-4",
       "nombre": "Severidad 4"
     }
   ]
