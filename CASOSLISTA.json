@@ -13,7 +13,7 @@
         "nombre": "pre-finalizado"
       },
       "severidad": {
-        "id": "S04",
+        "id": "SER-4",
         "nombre": "Severidad 4"
       },
       "cliente": {
@@ -54,7 +54,7 @@
         "nombre": "trabajando"
       },
       "severidad": {
-        "id": "S01",
+        "id": "SER-1",
         "nombre": "Severidad 1"
       },
       "cliente": {
@@ -95,7 +95,7 @@
         "nombre": "trabajando"
       },
       "severidad": {
-        "id": "S04",
+        "id": "SER-4",
         "nombre": "Severidad 4"
       },
       "cliente": {
@@ -136,7 +136,7 @@
         "nombre": "trabajando"
       },
       "severidad": {
-        "id": "S02",
+        "id": "SER-2",
         "nombre": "Severidad 2"
       },
       "cliente": {
@@ -177,7 +177,7 @@
         "nombre": "pendiente"
       },
       "severidad": {
-        "id": "S03",
+        "id": "SER-3",
         "nombre": "Severidad 3"
       },
       "cliente": {
@@ -218,7 +218,7 @@
         "nombre": "pendiente"
       },
       "severidad": {
-        "id": "S01",
+        "id": "SER-1",
         "nombre": "Severidad 1"
       },
       "cliente": {
