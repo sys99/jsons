@@ -29,7 +29,7 @@
             },
             "canalResolutor":{
                 "title":"Canal resolutor",
-                "type":"string",
+                "type":"select",
                 "hideNone": true,
                 "enum":[
                     "Administraciones públicas",
