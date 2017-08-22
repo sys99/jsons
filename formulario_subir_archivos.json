@@ -1,6 +1,5 @@
 {
     "schema": {
-        "title": "Carga de archivos",
         "type": "object",
         "properties": {
             "files": {
