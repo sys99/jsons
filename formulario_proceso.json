@@ -26,6 +26,15 @@
             "dpi": {
                 "type": "string",
                 "title": "DPI"
+            },
+            "canalResolutor":{
+                "title":"Canal resolutor",
+                "type":"string",
+                "enum":[
+                    "Administraciones públicas",
+                    "Grandes clientes",
+                    "Servicio al cliente presencial"
+                ]
             }
         }
     }
