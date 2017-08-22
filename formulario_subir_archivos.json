@@ -1,32 +1,41 @@
 {
     "schema": {
-        "description": "Formulario para carga de archivos",
         "type": "object",
         "properties": {
-            "archivo": {
-                "type": "string",
-                "title": "Archivos",
+            "files": {
+                "type": "array",
                 "items": {
-                    "title" : "Archivo",
-                    "type" : "string",
-                    "format" : "uri",
-                    "minItems" : 1,
-                    "maxItems" : 30
+                    "type": "object",
+                    "properties": {
+                        "avatar": {
+                            "type": "string",
+                            "format": "uri"
+                        },
+                        "description": {
+                            "type": "string"
+                        }
+                    }
                 }
             }
         }
     },
-    "options" : {
-        "fields" : {
-            "archivo" : {
-                "label" : "Archivo",
-                "helper" : "Subir archivos",
-                "itemLabel" : "archivo",
-                "toolbarSticky" : true,
-                "fields" : {
-                    "item" : {
-                        "type" : "file"
-                    }
+    "options": {
+        "fields": {
+            "files": {
+                "fields": {
+                    "item": {
+                        "fields": {
+                            "avatar": {
+                                "type": "file",
+                                "label": "Archivo"
+                            },
+                            "description": {
+                                "type": "text",
+                                "label": "Descripción del archivo"
+                            }
+                        }
+                    },
+                    "label": "Archivos a subir"
                 }
             }
         }
