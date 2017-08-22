@@ -1,0 +1,45 @@
+{
+    "schema": {
+        "title": "Carga de archivos",
+        "type": "object",
+        "properties": {
+            "files": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "avatar": {
+                            "type": "string",
+                            "format": "uri"
+                        },
+                        "description": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "options": {
+        "fields": {
+            "files": {
+                "fields": {
+                    "item": {
+                        "fields": {
+                            "avatar": {
+                                "type": "file",
+                                "label": "Documento"
+                            },
+                            "description": {
+                                "type": "textarea",
+                                "label": "Descripción del documento"
+                            }
+                        }
+                    },
+                    "label": "Tus documentos cargados",
+                    "helper": "Sube los documentos relacionados a la tarea."
+                }
+            }
+        }
+    }
+}
