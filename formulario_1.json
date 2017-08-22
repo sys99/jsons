@@ -1,0 +1,32 @@
+{
+    'schema': {
+        'description': 'Formulario para iniciar proceso de aparatos quemados',
+        'type': 'object',
+        'properties': {
+            'nis': {
+                'type': 'string',
+                'title': 'NIS/Expediente'
+            },
+            'nombre': {
+                'type': 'string',
+                'title': 'Nombre del cliente'
+            },
+            'telefono': {
+                'type': 'string',
+                'title': 'Teléfono'
+            },
+            'celular': {
+                'type': 'string',
+                'title': 'Celular'
+            },
+            'correo': {
+                'type': 'string',
+                'title': 'Correo electrónico'
+            },
+            'dpi': {
+                'type': 'string',
+                'title': 'DPI'
+            }
+        }
+    }
+}
