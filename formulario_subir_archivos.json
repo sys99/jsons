@@ -30,7 +30,7 @@
                                 "label": "Documento"
                             },
                             "description": {
-                                "type": "textarea",
+                                "type": "text",
                                 "label": "Descripción del documento"
                             }
                         }
