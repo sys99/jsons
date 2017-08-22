@@ -1,0 +1,20 @@
+{
+    "schema": {
+        "description": "Formulario para segunda tarea",
+        "type": "object",
+        "properties": {
+            "cliente": {
+                "type": "string",
+                "title": "Cliente"
+            },
+            "solicitante": {
+                "type": "string",
+                "title": "Solicitante"
+            },
+            "contrato": {
+                "type": "string",
+                "title": "Contrato"
+            }
+        }
+    }
+}
