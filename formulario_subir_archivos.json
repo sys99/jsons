@@ -5,7 +5,7 @@
         "properties": {
             "archivo": {
                 "type": "string",
-                "title": "NIS/Expediente",
+                "title": "Archivos",
                 "items": {
                     "title" : "Archivo",
                     "type" : "string",
