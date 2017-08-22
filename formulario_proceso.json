@@ -30,6 +30,7 @@
             "canalResolutor":{
                 "title":"Canal resolutor",
                 "type":"string",
+                "hideNone": true,
                 "enum":[
                     "Administraciones públicas",
                     "Grandes clientes",
