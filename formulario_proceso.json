@@ -29,9 +29,21 @@
             },
             "canalResolutor":{
                 "title":"Canal resolutor",
-                "type":"select",
-                "hideNone": true,
+                "type":"string",
                 "enum":[
+                    "Administraciones públicas",
+                    "Grandes clientes",
+                    "Servicio al cliente presencial"
+                ]
+            }
+        }
+    },
+    "options" : {
+        "fields": {
+            "canalResolutor": {
+                "type": "select",
+                "hideNone": true,
+                "optionLabels": [
                     "Administraciones públicas",
                     "Grandes clientes",
                     "Servicio al cliente presencial"
