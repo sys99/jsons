@@ -19,6 +19,7 @@
                 "inicio": "2017-06-12 11:15:25"
             },
             "id": "CAS-1344",
+            "impreso":false,
             "ingeniero": {
                 "id": "USR-72",
                 "nombre": "Edson Artiga"
@@ -60,6 +61,7 @@
                 "inicio": "2017-06-12 11:15:25"
             },
             "id": "CAS-1345",
+            "impreso":false,
             "ingeniero": {
                 "id": "USR-76",
                 "nombre": "Delwin Solano"
@@ -101,6 +103,7 @@
                 "inicio": "2017-06-12 11:15:25"
             },
             "id": "CAS-1346",
+            "impreso":false,
             "ingeniero": {
                 "id": "USR-82",
                 "nombre": "Cristhian Martínez"
