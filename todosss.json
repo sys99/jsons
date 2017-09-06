@@ -1,0 +1,127 @@
+{
+    "casos": [
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-08-11 20:00:08",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1344",
+            "singeniero": {
+                "uid": "USR-72",
+                "nombre": "Edson Artiga"
+            },
+            "nombre": "leverage B2C models",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-36",
+                "nombre": "Jdavie Arson"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1345",
+            "singeniero": {
+                "uid": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "streamline out-of-the-box convergence",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-36",
+                "nombre": "Jdavie Arson"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-08-01 12:00:00",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1346",
+            "singeniero": {
+                "uid": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "utilize interactive functionalities",
+            "producto": {
+                "id": "PRO-3",
+                "nombre": "Oracle Database"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-36",
+                "nombre": "Jdavie Arson"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        }
+    ]
+}
