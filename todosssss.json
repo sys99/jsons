@@ -20,7 +20,7 @@
             },
             "id": "CAS-1344",
             "ingeniero": {
-                "uid": "USR-72",
+                "id": "USR-72",
                 "nombre": "Edson Artiga"
             },
             "nombre": "leverage B2C models",
@@ -61,7 +61,7 @@
             },
             "id": "CAS-1345",
             "ingeniero": {
-                "uid": "USR-76",
+                "id": "USR-76",
                 "nombre": "Delwin Solano"
             },
             "nombre": "streamline out-of-the-box convergence",
@@ -102,7 +102,7 @@
             },
             "id": "CAS-1346",
             "ingeniero": {
-                "uid": "USR-82",
+                "id": "USR-82",
                 "nombre": "Cristhian Martínez"
             },
             "nombre": "utilize interactive functionalities",
