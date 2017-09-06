@@ -1,0 +1,4321 @@
+{
+    "casos": [
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-08-11 20:00:08",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1344",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-72",
+                "nombre": "Edson Artiga"
+            },
+            "nombre": "leverage B2C models",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-36",
+                "nombre": "Jdavie Arson"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1345",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "streamline out-of-the-box convergence",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-36",
+                "nombre": "Jdavie Arson"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-08-01 12:00:00",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1346",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "utilize interactive functionalities",
+            "producto": {
+                "id": "PRO-3",
+                "nombre": "Oracle Database"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-36",
+                "nombre": "Jdavie Arson"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-29 22:00:55",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1347",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "embrace mission-critical action-items",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-36",
+                "nombre": "Jdavie Arson"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1348",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-74",
+                "nombre": "Mikel Escobar"
+            },
+            "nombre": "mesh wireless users",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-62",
+                "nombre": "Edson Artiga"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-08-06 21:44:22",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1349",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-78",
+                "nombre": "Luis Flores"
+            },
+            "nombre": "facilitate leading-edge methodologies",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-4",
+                "nombre": "SSO"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1350",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-73",
+                "nombre": "Ricardo Jaimes"
+            },
+            "nombre": "harness innovative supply-chains",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-5",
+                "nombre": "Parchado"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-04 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1351",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "revolutionize open-source niches",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-6",
+                "nombre": "Actualización"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-09 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1352",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-72",
+                "nombre": "Edson Artiga"
+            },
+            "nombre": "empower magnetic e-business",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-04 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1353",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "disintermediate user-centric solutions",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-8",
+                "nombre": "Migración"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1354",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-75",
+                "nombre": "José Cardona"
+            },
+            "nombre": "orchestrate bleeding-edge models",
+            "producto": {
+                "id": "PRO-3",
+                "nombre": "Oracle Database"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1355",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-72",
+                "nombre": "Edson Artiga"
+            },
+            "nombre": "innovate front-end convergence",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-6",
+                "nombre": "Actualización"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1356",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-77",
+                "nombre": "Julio Alvarado"
+            },
+            "nombre": "facilitate plug-and-play systems",
+            "producto": {
+                "id": "PRO-3",
+                "nombre": "Oracle Database"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-3",
+                "nombre": "Instalación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1357",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-81",
+                "nombre": "Yonathan Cedillos"
+            },
+            "nombre": "iterate efficient schemas",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-3",
+                "nombre": "Instalación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1358",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-75",
+                "nombre": "José Cardona"
+            },
+            "nombre": "aggregate killer experiences",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-7",
+                "nombre": "Inducción"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-07 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1359",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-72",
+                "nombre": "Edson Artiga"
+            },
+            "nombre": "synthesize revolutionary partnerships",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-5",
+                "nombre": "Parchado"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1360",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-75",
+                "nombre": "José Cardona"
+            },
+            "nombre": "deploy dynamic web-readiness",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1361",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-72",
+                "nombre": "Edson Artiga"
+            },
+            "nombre": "productize extensible portals",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-3",
+                "nombre": "Instalación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1362",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-77",
+                "nombre": "Julio Alvarado"
+            },
+            "nombre": "strategize wireless initiatives",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1363",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-79",
+                "nombre": "Ricardo Sosa"
+            },
+            "nombre": "revolutionize seamless communities",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-6",
+                "nombre": "Actualización"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1364",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-81",
+                "nombre": "Yonathan Cedillos"
+            },
+            "nombre": "scale best-of-breed markets",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-09 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1365",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-74",
+                "nombre": "Mikel Escobar"
+            },
+            "nombre": "incentivize turn-key schemas",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1366",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-79",
+                "nombre": "Ricardo Sosa"
+            },
+            "nombre": "synergize seamless synergies",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1367",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-77",
+                "nombre": "Julio Alvarado"
+            },
+            "nombre": "drive best-of-breed partnerships",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-04 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1368",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-78",
+                "nombre": "Luis Flores"
+            },
+            "nombre": "target 24/365 infrastructures",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1369",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "exploit sexy content",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-5",
+                "nombre": "FEDECACES"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1370",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "mesh efficient supply-chains",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-19",
+                "nombre": "Wheeler Matteoli"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-09 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1371",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-75",
+                "nombre": "José Cardona"
+            },
+            "nombre": "revolutionize open-source supply-chains",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-7",
+                "nombre": "Inducción"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-09 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1372",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-78",
+                "nombre": "Luis Flores"
+            },
+            "nombre": "strategize front-end applications",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-7",
+                "nombre": "Inducción"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1373",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "architect rich convergence",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-3",
+                "nombre": "Instalación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1374",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "synthesize extensible communities",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1375",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "extend web-enabled models",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-04 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1376",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "reintermediate virtual functionalities",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-3",
+                "nombre": "Instalación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1377",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-79",
+                "nombre": "Ricardo Sosa"
+            },
+            "nombre": "mesh cross-media deliverables",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1378",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "seize proactive functionalities",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1379",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-72",
+                "nombre": "Edson Artiga"
+            },
+            "nombre": "architect e-business channels",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-5",
+                "nombre": "Parchado"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1380",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-77",
+                "nombre": "Julio Alvarado"
+            },
+            "nombre": "optimize synergistic solutions",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1381",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-77",
+                "nombre": "Julio Alvarado"
+            },
+            "nombre": "cultivate magnetic functionalities",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1382",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-81",
+                "nombre": "Yonathan Cedillos"
+            },
+            "nombre": "innovate bleeding-edge infomediaries",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1383",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-72",
+                "nombre": "Edson Artiga"
+            },
+            "nombre": "target scalable platforms",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-4",
+                "nombre": "SSO"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1384",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-78",
+                "nombre": "Luis Flores"
+            },
+            "nombre": "synthesize front-end interfaces",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-5",
+                "nombre": "Parchado"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1385",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-79",
+                "nombre": "Ricardo Sosa"
+            },
+            "nombre": "reinvent compelling eyeballs",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-04 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1386",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-77",
+                "nombre": "Julio Alvarado"
+            },
+            "nombre": "enhance proactive experiences",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1387",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "cultivate integrated platforms",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-5",
+                "nombre": "Parchado"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1388",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "redefine clicks-and-mortar users",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1389",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-74",
+                "nombre": "Mikel Escobar"
+            },
+            "nombre": "innovate back-end methodologies",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1390",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-77",
+                "nombre": "Julio Alvarado"
+            },
+            "nombre": "whiteboard plug-and-play users",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-6",
+                "nombre": "Actualización"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1391",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-79",
+                "nombre": "Ricardo Sosa"
+            },
+            "nombre": "streamline back-end e-commerce",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1392",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-78",
+                "nombre": "Luis Flores"
+            },
+            "nombre": "utilize cross-media niches",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-4",
+                "nombre": "SSO"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1393",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "productize scalable action-items",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-5",
+                "nombre": "Parchado"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-07 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1394",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "drive sticky methodologies",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-7",
+                "nombre": "Inducción"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1395",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-74",
+                "nombre": "Mikel Escobar"
+            },
+            "nombre": "grow plug-and-play mindshare",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-3",
+                "nombre": "Instalación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1396",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "streamline cutting-edge initiatives",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1397",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-75",
+                "nombre": "José Cardona"
+            },
+            "nombre": "visualize integrated methodologies",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1398",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-73",
+                "nombre": "Ricardo Jaimes"
+            },
+            "nombre": "scale mission-critical portals",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1399",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-81",
+                "nombre": "Yonathan Cedillos"
+            },
+            "nombre": "evolve web-enabled vortals",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1400",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "synergize integrated architectures",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-5",
+                "nombre": "Parchado"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1401",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "morph vertical ROI",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1402",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "target out-of-the-box web services",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-7",
+                "nombre": "Inducción"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1403",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "exploit collaborative web-readiness",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST3",
+                "nombre": "Pre-finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1404",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "benchmark cross-platform web services",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-14",
+                "nombre": "Piper Follen"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1405",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-81",
+                "nombre": "Yonathan Cedillos"
+            },
+            "nombre": "engineer visionary models",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-29",
+                "nombre": "Clive Minchi"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1406",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "engineer wireless partnerships",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-18",
+                "nombre": "Frederich Sabathe"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1407",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-74",
+                "nombre": "Mikel Escobar"
+            },
+            "nombre": "syndicate ubiquitous niches",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-18",
+                "nombre": "Frederich Sabathe"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1408",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "matrix cutting-edge supply-chains",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-33",
+                "nombre": "Kile Delgardillo"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-5",
+                "nombre": "Parchado"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1409",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "seize bleeding-edge web-readiness",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-33",
+                "nombre": "Kile Delgardillo"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1410",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-74",
+                "nombre": "Mikel Escobar"
+            },
+            "nombre": "evolve back-end methodologies",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-33",
+                "nombre": "Kile Delgardillo"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-8",
+                "nombre": "Migración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1411",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-79",
+                "nombre": "Ricardo Sosa"
+            },
+            "nombre": "grow compelling markets",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-18",
+                "nombre": "Frederich Sabathe"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-04 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1412",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-79",
+                "nombre": "Ricardo Sosa"
+            },
+            "nombre": "aggregate innovative ROI",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-18",
+                "nombre": "Frederich Sabathe"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-8",
+                "nombre": "Migración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1413",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-73",
+                "nombre": "Ricardo Jaimes"
+            },
+            "nombre": "expedite 24/365 platforms",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-33",
+                "nombre": "Kile Delgardillo"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-6",
+                "nombre": "Actualización"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-07 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1414",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "embrace B2C infrastructures",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-33",
+                "nombre": "Kile Delgardillo"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-6",
+                "nombre": "Actualización"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1415",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "morph bricks-and-clicks schemas",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-18",
+                "nombre": "Frederich Sabathe"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1416",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "mesh magnetic partnerships",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-33",
+                "nombre": "Kile Delgardillo"
+            },
+            "tipoCaso": {
+                "id": "TIP-4",
+                "nombre": "SSO"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-5",
+                "nombre": "Parchado"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-07 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1417",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "aggregate holistic deliverables",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-33",
+                "nombre": "Kile Delgardillo"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-04 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1418",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "incubate e-business infomediaries",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-33",
+                "nombre": "Kile Delgardillo"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-04 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1419",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "recontextualize front-end communities",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-18",
+                "nombre": "Frederich Sabathe"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-8",
+                "nombre": "Migración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1420",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-73",
+                "nombre": "Ricardo Jaimes"
+            },
+            "nombre": "maximize distributed solutions",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-33",
+                "nombre": "Kile Delgardillo"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-10",
+                "nombre": "Restauración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-11 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1421",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-77",
+                "nombre": "Julio Alvarado"
+            },
+            "nombre": "exploit sticky interfaces",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-18",
+                "nombre": "Frederich Sabathe"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-8",
+                "nombre": "Migración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1422",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-73",
+                "nombre": "Ricardo Jaimes"
+            },
+            "nombre": "architect open-source communities",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-18",
+                "nombre": "Frederich Sabathe"
+            },
+            "tipoCaso": {
+                "id": "TIP-4",
+                "nombre": "SSO"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-5",
+                "nombre": "Parchado"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-08-02 11:10:43",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1423",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-73",
+                "nombre": "Ricardo Jaimes"
+            },
+            "nombre": "benchmark transparent e-services",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-18",
+                "nombre": "Frederich Sabathe"
+            },
+            "tipoCaso": {
+                "id": "TIP-5",
+                "nombre": "Curso"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-7",
+                "nombre": "Inducción"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-09 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1424",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-77",
+                "nombre": "Julio Alvarado"
+            },
+            "nombre": "reinvent global markets",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-33",
+                "nombre": "Kile Delgardillo"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1425",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-79",
+                "nombre": "Ricardo Sosa"
+            },
+            "nombre": "architect cross-media solutions",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-18",
+                "nombre": "Frederich Sabathe"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1426",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "orchestrate cross-platform paradigms",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-04 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1427",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "orchestrate user-centric architectures",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-4",
+                "nombre": "SSO"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-4",
+                "nombre": "Respaldo"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1428",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-72",
+                "nombre": "Edson Artiga"
+            },
+            "nombre": "synergize one-to-one methodologies",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-8",
+                "nombre": "Migración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1429",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-73",
+                "nombre": "Ricardo Jaimes"
+            },
+            "nombre": "benchmark e-business web-readiness",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-10 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1430",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "mesh plug-and-play ROI",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-8",
+                "nombre": "Interno"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-6",
+                "nombre": "Actualización"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-08 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1431",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "incentivize granular infrastructures",
+            "producto": {
+                "id": "PRO-5",
+                "nombre": "Amazon S3"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-8",
+                "nombre": "Migración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-05 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1432",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-77",
+                "nombre": "Julio Alvarado"
+            },
+            "nombre": "implement 24/7 models",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST4",
+                "nombre": "Finalizado"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-09 11:17:23",
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1433",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-73",
+                "nombre": "Ricardo Jaimes"
+            },
+            "nombre": "brand holistic e-business",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-1",
+                "nombre": "Severidad 1"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-07-06 11:17:23",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1434",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-74",
+                "nombre": "Mikel Escobar"
+            },
+            "nombre": "evolve revolutionary initiatives",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-4",
+                "nombre": "SSO"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-3",
+                "nombre": "Instalación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST1",
+                "nombre": "Pendiente"
+            },
+            "fecha": {
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1435",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-79",
+                "nombre": "Ricardo Sosa"
+            },
+            "nombre": "morph ubiquitous communities",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-7",
+                "nombre": "Administrativo"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST1",
+                "nombre": "Pendiente"
+            },
+            "fecha": {
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1436",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "facilitate B2C eyeballs",
+            "producto": {
+                "id": "PRO-3",
+                "nombre": "Oracle Database"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-1",
+                "nombre": "Diseño"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-08-08 16:50:18",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1437",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-78",
+                "nombre": "Luis Flores"
+            },
+            "nombre": "grow enterprise experiences",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-4",
+                "nombre": "SSO"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-2",
+                "nombre": "Programación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST1",
+                "nombre": "Pendiente"
+            },
+            "fecha": {
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1438",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-73",
+                "nombre": "Ricardo Jaimes"
+            },
+            "nombre": "transition cutting-edge web-readiness",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-2",
+                "nombre": "SATOS"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-8",
+                "nombre": "Migración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST1",
+                "nombre": "Pendiente"
+            },
+            "fecha": {
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1439",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-75",
+                "nombre": "José Cardona"
+            },
+            "nombre": "engage cross-platform e-tailers",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-7",
+                "nombre": "Inducción"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST1",
+                "nombre": "Pendiente"
+            },
+            "fecha": {
+                "cierre": "2017-07-10 13:30:25",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1440",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-76",
+                "nombre": "Delwin Solano"
+            },
+            "nombre": "monetize B2C architectures",
+            "producto": {
+                "id": "PRO-2",
+                "nombre": "OpenKM"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-7",
+                "nombre": "Inducción"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST1",
+                "nombre": "Pendiente"
+            },
+            "fecha": {
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1441",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-82",
+                "nombre": "Cristhian Martínez"
+            },
+            "nombre": "incubate interactive mindshare",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-1",
+                "nombre": "SATI"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST1",
+                "nombre": "Pendiente"
+            },
+            "fecha": {
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1442",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-74",
+                "nombre": "Mikel Escobar"
+            },
+            "nombre": "architect visionary eyeballs",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-8",
+                "nombre": "Migración"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-08-02 00:00:00",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1443",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-78",
+                "nombre": "Luis Flores"
+            },
+            "nombre": "deliver revolutionary e-commerce",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-6",
+                "nombre": "Actualización"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST2",
+                "nombre": "Trabajando"
+            },
+            "fecha": {
+                "actualizacion": "2017-08-02 00:00:00",
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1444",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-72",
+                "nombre": "Edson Artiga"
+            },
+            "nombre": "target transparent models",
+            "producto": {
+                "id": "PRO-1",
+                "nombre": "Liferay"
+            },
+            "severidad": {
+                "id": "SER-4",
+                "nombre": "Severidad 4"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-4",
+                "nombre": "SSO"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-9",
+                "nombre": "Replicación"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST1",
+                "nombre": "Pendiente"
+            },
+            "fecha": {
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1445",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-80",
+                "nombre": "Oscar López"
+            },
+            "nombre": "iterate ubiquitous bandwidth",
+            "producto": {
+                "id": "PRO-3",
+                "nombre": "Oracle Database"
+            },
+            "severidad": {
+                "id": "SER-2",
+                "nombre": "Severidad 2"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-6",
+                "nombre": "Proyecto"
+            }
+        },
+        {
+            "actividad": {
+                "id": "ACTI-7",
+                "nombre": "Inducción"
+            },
+            "cliente": {
+                "id": "CLT-6",
+                "nombre": "PNC"
+            },
+            "estado": {
+                "id": "EST1",
+                "nombre": "Pendiente"
+            },
+            "fecha": {
+                "cierre": "",
+                "inicio": "2017-06-12 11:15:25"
+            },
+            "id": "CAS-1446",
+            "impreso": false,
+            "ingeniero": {
+                "id": "USR-79",
+                "nombre": "Ricardo Sosa"
+            },
+            "nombre": "engage wireless e-business",
+            "producto": {
+                "id": "PRO-4",
+                "nombre": "JBoss EAP"
+            },
+            "severidad": {
+                "id": "SER-3",
+                "nombre": "Severidad 3"
+            },
+            "solicitante": {
+                "id": "SOL-27",
+                "nombre": "Teador Gullifant"
+            },
+            "tipoCaso": {
+                "id": "TIP-3",
+                "nombre": "SSOL"
+            }
+        }
+    ]
+}
