@@ -6,11 +6,11 @@
       "año": "2017",
       "lunes": {
         "numero": "12",
-        "horas": "30"
+        "horas": "15"
       },
       "martes": {
         "numero": "13",
-        "horas": "45"
+        "horas": "67"
       },
       "miercoles": {
         "numero": "14",
@@ -18,7 +18,7 @@
       },
       "jueves": {
         "numero": "15",
-        "horas": "14"
+        "horas": "23"
       },
       "viernes": {
         "numero": "16",
@@ -39,23 +39,23 @@
       "año": "2017",
       "lunes": {
         "numero": "12",
-        "horas": "30"
+        "horas": "82"
       },
       "martes": {
         "numero": "13",
-        "horas": "45"
+        "horas": "0"
       },
       "miercoles": {
         "numero": "14",
-        "horas": "0"
+        "horas": "12"
       },
       "jueves": {
         "numero": "15",
-        "horas": "14"
+        "horas": "8"
       },
       "viernes": {
         "numero": "16",
-        "horas": "23"
+        "horas": "21"
       },
       "sabado": {
         "numero": "17",
@@ -72,31 +72,31 @@
       "año": "2017",
       "lunes": {
         "numero": "19",
-        "horas": "30"
+        "horas": "54"
       },
       "martes": {
         "numero": "20",
-        "horas": "45"
+        "horas": "20"
       },
       "miercoles": {
         "numero": "21",
-        "horas": "42"
+        "horas": "99"
       },
       "jueves": {
         "numero": "22",
-        "horas": "19"
+        "horas": "21"
       },
       "viernes": {
         "numero": "23",
-        "horas": "24"
+        "horas": "7"
       },
       "sabado": {
         "numero": "24",
-        "horas": "70"
+        "horas": "8"
       },
       "domingo": {
         "numero": "25",
-        "horas": "34"
+        "horas": "37"
       }
     },
     {
